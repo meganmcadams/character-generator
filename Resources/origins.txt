@@ -1,0 +1,25 @@
+Leeside Yarlford
+Leeside Kilerth
+Leeside Klaymore
+Leeside Streatham
+Leeside Culcheth
+Leeside Aerilon
+Leeside Braedon
+Leeside Swordbreak
+Leeside Wellington
+Leeside Kameeraska
+Leeside Haran
+Mainland	Aerilon
+Mainland	Kilerth
+Mainland	Streatham
+Mainland	Culceth
+Mainland	Braedon
+Mainland	Kameeraska
+Astradia	Varaden
+Astradia	Swordbreak
+Astradia	Thorpes
+Astradia	Porthcrawl
+Astradia	Haran
+Northwest Island    Kamouraska
+Southwest Island	Marana
+Southwest Island	Mouri
