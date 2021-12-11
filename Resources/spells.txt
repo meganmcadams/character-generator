@@ -1,362 +1,362 @@
 Spell Name	Level	Class(es)	School	Casting Time	Range	Target/Area	Component(s)	Concentration	Duration	Attack/Saving Throw (Effect)	DAM Type	Damage/Heal	Additional Detail
-Power Word Heal	9	Bard	Evocation	1 action	Touch	1 creature			Instantaneous			HEAL: All HP	Target also cured of charm, fright, paralyze, or stun. Use reaction to stand up.
-Rope Trick	2	Wizard	Transmutation	1 action	Touch	60 ft. rope	powdered corn, parchment loop		1 hour				Climb rope to other space that can hide 8 Medium creatures. Can see outside.
-Divine Word	7	Cleric	Evocation	1 bonus action	30 ft.	Any targets in range			Instantaneous	CHA (Fail)			Targets suffer effects based on their current HP. See Sourcebook.
-Detect Thoughts	2	Bard, Sorcerer, Wizard	Divination	1 action	Self	30 ft. radius	a copper piece	1	1 minute	See Sourcebook.			Read thoughts of those around you. See Sourcebook.
-Water Walk	3	Cleric, Druid, Ranger, Sorcerer	Transmutation	1 action	30 ft.	<= 10 willing creatures	piece of cork		1 hour				Creaturess walk on liquid, rise 60 ft. per round if under. Still take other damage.
-Weird	9	Wizard	Illusion	1 action	120 ft.	30 ft. radius		1	1 minute	WIS (Fail)	Psychic	DAM: 4d10	Affected creatures make WIS saves each turn and take DAM until they save.
-Witch Bolt	1	Sorcerer, Warlock, Wizard	Evocation	1 action	30 ft.	1 creature	twig from tree struck by lightning	1	1 minute	Ranged Spell Attack	Lightning	DAM: 1d12	Use action to auto hit target hit last round for 1d12 lightning DAM if in range.
-Mass Healing Word	3	Cleric	Evocation	1 bonus action	60 ft.	<= 6 creatures			Instantaneous			See Details.	Targets HEAL 1d4 + casting ability modifier. No effect on undead/constructs.
-Telekinesis	5	Sorcerer, Wizard	Transmutation	1 action	60 ft.	Creatures or objects in range		1	10 minutes				Move objects or creatures with your mind. See Sourcebook.
-Cure Wounds	1	Bard, Cleric, Druid, Paladin, Ranger	Evocation	1 action	Touch	1 creature			Instantaneous			See Details	HEAL: 1d8 + spellcasting ability modifier. No effect on undead or constructs.
-Mirror Image	2	Cleric(Trickery), Druid(Coast), Sorcerer, Warlock, Wizard	Illusion	1 action	Self	Self			1 minute				Create duplicates that make you harder to hit. See Sourcebook.
-Otiluke's Freezing Sphere	6	Wizard	Evocation	1 action	300 ft.	60 ft. radius sphere	small crystal sphere		Instantaneous	CON (Half DAM)	Cold	DAM: 10d6	Water freezes. Can give globe to another who fires it and spell takes effect then.
-Dancing Lights	0	Bard, Sorcerer, Wizard	Evocation	1 action	120 ft.		phosphorous or glowworm	1	1 minute				Create 4 glowing, hovering objects that shed light out 10 ft. Can move 60 ft.
-Augury	2	Cleric	Divination	1 minute	Self	Self	special tokens		Instantaneous				See omen predicting results of action taken within 30 minutes.
-Counterspell	3	Sorcerer, Warlock, Wizard	Abjuration	1 reaction (spell cast)	60 ft.	1 Spellcaster			Instantaneous	See Details.			Interrupt spell <= 4th. You make casting ability check (DC 10 + spell level).
-Water Breathing	3	Druid, Ranger, Sorcerer, Wizard	Transmutation	1 action	30 ft.	<= 10 willing creatures	short reed or piece of straw		24 hours				Creatures gain ability to breathe underwater using normal respiration.
-Wall of Ice	6	Wizard	Evocation	1 action	120 ft.	See Sourcebook.	small piece of quartz	1	10 minutes	DEX (Half DAM)	Cold	DAM: 10d6	Ice:AC 12, 30 HP. Moving through ice:take 5d6 cold DAM or CON save for half.
-Maze	8	Wizard	Conjuration	1 action	60 ft.	1 creature		1	10 minutes	See Details			Target uses action each turn to make INT check (DC 20) to escape.
-Arms of Hadar	1	Warlock	Conjuration	1 action	Self	10 ft. radius			Instantaneous	STR (Half DAM, no effect)	Necrotic	DAM: 2d6	Targets can't take reactions until next turn
-Dispel Magic	3	Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard	Abjuration	1 action	120 ft.	1 creature/object/magical effect			Instantaneous				End spell <= 3rd level. For >= 4th level, casting ability check DC=10+spell level.
-Spirit Guardian	3	Cleric	Conjuration	1 action	Self	15 ft. radius	holy symbol	1	10 minutes	WIS (Half DAM)	Radiant or Necrotic	DAM: 3d8	Enemy creature speed halved. DMG on enter area: necrotic if evil, radiant if not.
-Daylight	3	Cleric, Druid, Paladin, Ranger, Sorcerer	Evocation	1 action	60 ft.	60 ft. radius sphere			1 hour				Creates bright light. Dispels darkness spells <= 3rd level it overlaps with.
-Mage Hand	0	Bard, Sorcerer, Warlock, Wizard	Conjuration	1 action	30 ft.				1 minute				Create spectral hand that manipulates objects. Can pick up <= 10 lbs.
-Bestow Curse	3	Bard, Cleric, Paladin(Oathbreaker), Wizard	Necromancy	1 action	Touch	1 creature		1	1 minute	WIS (Fail)			Curse target. See Sourcebook.
-Mordenkainen's Sword	7	Bard, Wizard	Evocation	1 action	60 ft.		mini platinum sword	1	1 minute	Melee Spell Attack	Force	DAM: 3d10	Use bonus action each turn to move sword <= 20 ft. and attack again.
-Animal Messenger	2	Bard, Druid, Ranger	Enchantment	1 action	30 ft.	1 Tiny beast	morsel of food		24 hours				Beast will relay 25 word message to a target you describe
-Ice Storm	4	Cleric(Tempest), Druid, Paladin(Ancients), Sorcerer, Wizard	Evocation	1 action	300 ft.	20 ft. rad, 40ft. high cylinder	pinch of dust, drop of water		Instantaneous	DEX (Half DAM)	Bludgeoning+Cold	DAM: 2d8+4d6	Storm's area of effect becomes difficult terrain until end of next turn.
-Legend Lore	5	Bard, Cleric, Wizard	Divination	10 minutes	Self	1 person, place, or object	INCENSE(250),4 ivory strips(50)		Instantaneous				Learn lore about target. Information is accurate but might use figurative words.
-Charm Person	1	Bard, Cleric(Trickery), Druid, Sorcerer, Warlock, Wizard	Enchantment	1 action	30 ft.	1 humanoid			1 hour	Wisdom (Fail)			Charm target so it treats you as friendly. Gets advantage to save if fighting you.
-Goodberry	1	Druid, Ranger	Transmutation	1 action	Touch		sprig of mistletoe		Instantaneous				Create <= 10 berries that HEAL 1 HP each. Expire after 24 hours.
-Contagion	5	Cleric, Druid, Paladin(Oathbreaker)	Necromancy	1 action	Touch	1 creature			7 days	CON (See Sourcebook)			Give creature a disease. See Sourcebook.
-Fire Storm	7	Cleric, Druid	Evocation	1 action	150 ft.	<= ten 10 ft. cubes			Instantaneous	DEX (Half DAM)	Fire	DAM: 7d10	Each cube must face at least one other cube. Can choose not to affect plants.
-Searing Smite	1	Paladin	Evocation	1 bonus action	Self	1 creature		1	1 minute	Melee Weapon Attack	Fire	DAM: 1d6	Target takes initial DAM and CON save at start of each turn or take 1d6 fire.
-Blade Ward	0	Bard, Sorcerer, Warlock, Wizard	Abjuration	1 action	Self	Self			1 round				Gain resistance to bludgeoning/piercing/slashing DMG from weapons.
-Illusory Script	1	Bard, Warlock, Wizard	Illusion	1 minute	Touch	writing surface	LEAD-BASED INK		10 days				Write magical script on surface that only designated people can read.
-Compulsion	4	Bard	Enchantment	1 action	30 ft.	Creatures in range		1	1 minute	WIS (Fail)			Compel targets to move in specified non-hazardous direction.
-Circle of Death	6	Sorcerer, Warlock, Wizard	Necromancy	1 action	150 ft.	60 ft. radius sphere	crushed black pearl		Instantaneous	CON (Half DAM)	Necrotic	DAM: 8d6	
-Animate Objects	5	Bard, Sorcerer, Wizard	Transmutation	1 action	120 ft.	<= 10 objects		1	1 minute				Animate objects to accept simple commands.
-Contact Other Plane	5	Warlock, Wizard	Divination	1 minute	Self				1 minute	INT DC:15(DAM, insane for day)	Psychic	DAM: 6d6	Contact extraplanar being. YOU make save. 1-word answers to 5 questions.
-Banishing Smite	5	Paladin	Abjuration	1 bonus action	Self	Self		1	1 minute	Weapon Attack	Force	DAM: 5d10	Target banished if <= 50 HP.
-Magic Jar	6	Wizard	Necromancy	1 minute	Self		ornamental container		Until Dispelled				Your soul enters an external object. See sourcebook.
-Sacred Flame	0	Cleric	Evocation	1 action	60 ft.	1 creature			Instantaneous	DEX (Fail)	Fire	DAM: 1d8	No cover. DAM increase. 5th level: 2d8, 11th level: 3d8, 17th level: 4d8.
-Produce Flame	0	Cleric(Nature), Druid	Conjuration	1 action	Self				10 minutes	Ranged Spell Attack	Fire	DAM: 1d8	Create flame. DAM increase. 5th level: 2d8, 11th level: 3d8, 17th level: 4d8.
-Blight	4	Cleric(Death), Druid, Paladin(Oathbreaker), Sorcerer, Warlock, Wizard	Necromancy	1 action	30 ft.	1 creature			Instantaneous	CON (Half DAM)	Necrotic	DAM: 8d8	Plants have disadvantage on save and take max DAM.
-Resurrection	7	Bard, Cleric	Necromancy	1 hour	Touch	1 dead creature	DIAMOND		Instantaneous				Resurrect dead creaature. See Sourcebook.
-Dimension Door	4	Bard, Cleric(Trickery), Paladin(Vengeance), Sorcerer, Warlock, Wizard	Conjuration	1 action	500 ft.	Self (and ally within 5 ft.)			Instantaneous				Teleport yourself and ally to location. If occupied, 4d6 force DAM and spell fails.
-Power Word Stun	8	Bard, Sorcerer, Warlock, Wizard	Enchantment	1 action	60 ft.	1 creature			Instantaneous	See Details.			Target <= 150 HP is stunned. Nothing otherwise. CON save at end of turn to end.
-Shocking Grasp	0	Sorcerer, Wizard	Evocation	1 action	Touch	1 creature			Instantaneous	Melee Spell Attack	Lightning	DAM: 1d8	Target can't take reactions until next turn. Advantage if target has metal armor.
-Bless	1	Cleric, Paladin	Enchantment	1 action	30 ft.	<= 3 creatures	sprinkling of holy water	1	1 minute				Targets add 1d4 to attack rolls and saving throws.
-Shatter	2	Bard, Cleric(Tempest), Sorcerer, Warlock, Wizard	Evocation	1 action	60 ft.	10 ft. sphere	chip of mica		Instantaneous	CON (Half DAM)	Thunder	DAM: 3d8	Inorganic creatures have disadvantage to save. Objects take DAM too.
-Banishment	4	Cleric, Paladin, Sorcerer, Warlock, Wizard	Abjuration	1 action	60 ft.	1 target	item disliked by target	1	1 minute	CHA (Fail)			Banish target to another plane; native of other plane doesn't return after 1 min.
-Dominate Beast	4	Cleric(Nature), Druid, Sorcerer	Enchantment	1 action	60 ft.	1 beast		1	1 minute	WIS (Fail)			Charm beast to give it commands. Has advantage to save if attacking it.
-Darkness	2	Druid(Swamp), Paladin(Oathbreaker), Sorcerer, Warlock, Wizard	Evocation	1 action	60 ft.	15 ft. radius sphere	bat fur and pitch or coal	1	10 minutes				Creates darkness normal light can't dispel. Dispels light spells <= 2nd level.
-Teleport	7	Bard, Sorcerer, Wizard	Conjuration	1 action	10 ft.	Self and <= 8 creatures			Instantaneous				Teleport yourself and willing creatures to a distant location. See Sourcebook.
-Forcecage	7	Bard, Warlock, Wizard	Evocation	1 action	100 ft.	20 ft. square or 10 ft. cube	ruby dust		1 hour	See Details.			Creatures stuck in cage can only leave using magic after CHA save.
-Invisibility	2	Bard, Druid(Grassland), Sorcerer, Warlock, Wizard	Illusion	1 action	Touch	1 creature	eyelash in gum arabic	1	1 hour				Target becomes invisible. Ends if target attacks or casts a spell.
-Minor Illusion	0	Bard, Sorcerer, Warlock, Wizard	Illusion	1 action	30 ft.	5 ft. cube	bit of fleece		1 minute				Create illusory sound or image. Investigation check against spell DC to detect.
-Misty Step	2	Druid(Coast), Paladin(Ancients,Vengeance), Sorcerer, Warlock, Wizard	Conjuration	1 bonus action	Self	Self			Instantaneous				Teleport <= 30 ft. away to unoccupied location.
-Purify Food and Drink	1	Cleric, Druid, Paladin	Transmutation	1 action	10 ft.	5 ft. radius			Instantaneous				All nonmagical food and drink in range is rendered free of poison and disease.
-Melf's Acid Arrow	2	Druid(Swamp), Wizard	Evocation	1 action	90 ft.	1 target	rhubarb leaf, adder's stomach		Instantaneous	Ranged Spell Attack	Acid	DAM: 4d4	Half DAM on miss. On hit, target also takes 2d4 acid DAM at end of next turn.
-Scrying	5	Bard, Cleric, Druid, Paladin(Vengeance), Warlock, Wizard	Divination	10 minutes	Self	1 creature	scrying focus	1	10 minutes	WIS (Fail)			Spy on a target located on the same plane as you. See Sourcebook.
-Dissonant Whispers	1	Bard	Enchantment	1 action	60 ft.	1 creature			Instantaneous	WIS (Fail)	Psychic	DAM: 3d6	Target immediately uses reaction to move as far away as possible.
-Dream	5	Bard, Druid(Grassland), Warlock, Wizard	Illusion	1 minute	See Sourcebook.	1 creature	sand,ink,quill from asleep bird		8 hours	See Sourcebook.	See Sourcebook.	See Sourcebook.	Shape creature's dreams. See Sourcebook.
-Armor of Agathys	1	Warlock	Abjuration	1 action	Self	Self	cup of water		1 hour		Cold	DAM: 5	Gain 5 THP. Melee attackers take 5 DAM.
-Pass without Trace	2	Cleric(Trickery), Druid, Ranger	Abjuration	1 action	Self	Willing creatures in range	mistletoe or spruce ash	1	1 hour				Targets get +10 to Stealth checks and can only be tracked by magic.
-Hypnotic Pattern	3	Bard, Sorcerer, Warlock, Wizard	Illusion	1 action	120 ft.	30 ft. cube	glowing stick of incense	1	1 minute	WIS (Fail)			Creatures charmed, incapacitated, speed = 0. Spell ends on DAM or shaking.
-Thunderous Smite	1	Paladin	Evocation	1 bonus action	Self	1 creature		1	1 minute	Melee Weapon Attack	Thunder	DAM: 2d6	Attack target takes extra thunder DAM and STR save or pushed 10 ft. and prone.
-Nondetection	3	Bard, Cleric(Knowledge), Ranger, Wizard	Abjuration	1 action	Touch	1 object, place, or willing target	DIAMOND DUST		8 hours				Hide target from all divination and scrying magic.
-Gust of Wind	2	Cleric(Tempest), Druid, Sorcerer, Wizard	Evocation	1 action	Self	60 ft. line 10 ft. wide	a legume seed	1	1 minute	STR (Fail)			Push targets 15 ft. in directon of wind. Creatures move half speed against wind.
-Geas	5	Bard, Cleric, Druid, Paladin, Wizard	Enchantment	1 minute	60 ft.	1 creature			30 days	WIS (Fail)	See Details.	See Details.	Target must perform task you set. 5d10 psychic DAM whenever it disobeys.
-Sunburst	8	Druid, Sorcerer, Wizard	Evocation	1 action	150 ft.	60 ft. radius sphere	fire and piece of sunstone		Instantaneous	CON (Half DAM, no blindness)	Radiant	DAM: 12d6	Creatures are blinded for 1 minute (CON save at end of turn to end).
-Unseen Servant	1	Bard, Warlock, Wizard	Conjuration	1 action	60 ft.		piece of string, bit of wood		1 hour				Create invisible force that can perform simple, menial tasks for you.
-Conjure Minor Elementals	4	Druid, Wizard	Conjuration	1 minute	90 ft.			1	1 hour				Summon elementals (total CR <= 2) that obey commands.
-Find Familiar	1	Wizard	Conjuration	1 hour	10 ft.		CHARCOAL,INCENSE,HERBS		Instantaneous				Gain the service of a familiar. See Sourcebook.
-Mordenkainen's Private Sanctum	4	Wizard	Abjuration	10 minutes	120 ft.	<= 100 ft. cube	lead,glass,cloth,chrysolite		24 hours				Create magically secure area. See Sourcebook.
-Globe of Invulnerability	6	Sorcerer, Wizard	Abjuration	1 action	Self	10 ft. radius sphere	glass or crystal bead	1	1 minute				Spells <= 5th level cannot affect those within the globe.
-Drawmij's Instant Summons	6	Wizard	Conjuration	1 minute	Touch	1 object <= 10 lb.	sapphire		Until Dispelled				Speak item name and crush gem to summon object unless it's held by other.
-Etherealness	7	Bard, Cleric, Sorcerer, Warlock, Wizard	Transmutation	1 action	Self	Self			Up to 8 hours				Become ethereal. Move up/down at half speed. Can't see past 60 ft.
-Dominate Person	5	Bard, Cleric(Trickery), Paladin(Oathbreaker), Sorcerer, Wizard	Enchantment	1 action	60 ft.	1 person		1	1 minute	WIS (Fail)			Charm humanoid to give it commands. Has advantage to save if attacking it.
-Power Word Kill	9	Bard, Sorcerer, Warlock, Wizard	Enchantment	1 action	60 ft.	1 creature			Instantaneous			See Details.	If target has <= 100 HP, it dies instantly. No effect otherwise. No saving throw.
-Barkskin	2	Cleric(Nature), Druid, Ranger	Transmutation	1 action	Touch	1 willing creature	oak bark	1	1 hour				Target AC is never less than 16 during spell.
-Plant Growth	3	Bard, Cleric(Nature), Druid, Paladin(Ancients), Ranger	Transmutation	1 action or 8 hours	150 ft.	100 ft. or 1 mile radius			Instantaneous				Cast short term (creatures move 1/4 speed) or long term (double food yield).
-Freedom of Movement	4	Bard, Cleric, Druid, Paladin(Devotion), Ranger	Abjuration	1 action	Touch	1 willing creature	leather strap around arm		1 hour				Immune to difficult terrain,slow,paralyze,restrain. Spend 5ft to escape restrain.
-Sending	3	Bard, Cleric, Wizard	Evocation	1 action	Unlimited	1 creature	short piece of fine copper wire		1 round				Send <= 25 word message to known creature. Get similar reply.
-Glibness	8	Bard, Warlock	Transmutation	1 action	Self	Self			1 hour				Can replace CHA check rolls with a 15. Spells always detect you telling truth.
-Feign Death	3	Bard, Cleric, Druid, Wizard	Necromancy	1 action	Touch	1 willing creature	pinch of graveyard dirt		1 hour				Creature appears dead. Resists all non-psychic DMG. Disease/poison delayed.
-Elemental Weapon	3	Paladin	Transmutation	1 action	Touch	1 nonmagical weapon		1	1 hour				Weapon is +1 to hit and +1d4 acid, cold, fire, lightning, or thunder DAM.
-Flame Blade	2	Druid	Evocation	1 bonus action	Self		sumac leaf	1	10 minutes	Melee Spell Attack	Fire	DAM: 3d6	Create fiery scimitar that sheds bright light 10ft. and dim light for another 10ft.
-Transport via Plants	6	Druid	Conjuration	1 action	10 ft.	2 >= Large plants, 1 in range			1 round				Enter one plant and emerge from another on same plane you've encountered.
-Sunbeam	6	Druid, Sorcerer, Wizard	Evocation	1 action	Self	60 ft. line	magnifying glass	1	1 minute	CON (Half DAM, no blindness)	Radiant	DAM: 6d8	Creatures are blinded until your next turn. Use your action to make a new line.
-Earthquake	8	Cleric, Druid, Sorcerer	Evocation	1 action	500 ft.	100 ft. radius	piece of dirt, rock, and clay	1	1 minute	See Sourcebook.			Create a seismic disturbance with various effects. See Sourcebook.
-Haste	3	Druid(Grassland), Paladin(Vengeance), Sorcerer, Wizard	Transmutation	1 action	30 ft.	1 willing creature	shaving of licorice root	1	1 minute				Doubles speed. +2 AC. Advantage on DEX saves. Additional action to Dash.
-Antilife Shell	5	Cleric(Death), Druid	Abjuration	1 action	10 ft. radius	Self		1	1 hour				Erects barrier around you that moves with you. Living creatures cannot enter.
-Otiluke's Resilient Sphere	4	Wizard	Evocation	1 action	30 ft.	1 creature or object	hemispheres of crystal,arabic	1	1 minute	DEX (Fail)			Trap creature in sphere. Sphere only destroyed by Disintegrate spell.
-Hellish Rebuke	1	Paladin(Oathbreaker), Warlock	Evocation	1 reaction (take DAM)	60 ft.	1 creature that damaged you			Instantaneous	DEX (Half DAM)	Fire	DAM: 2d10	Magical counterattack to taking damage.
-Animal Shapes	8	Druid	Transmutation	1 action	30 ft.	Any willing targets		1	24 hours				Transform targets into Large or smaller beasts with CR <= 4
-Inflict Wounds	1	Cleric, Paladin(Oathbreaker)	Necromancy	1 action	Touch	1 creature			Instantaneous	Melee Spell Attack	Necrotic	DAM: 3d10	Inflict necrotic damage on target.
-Hold Person	2	Bard, Cleric, Druid, Paladin(Vengeance), Sorcerer, Warlock, Wizard	Enchantment	1 action	60 ft.	1 humanoid	small straight piece of iron	1	1 minute	WIS (Fail)			Target is paralyzed. New saving throw at end of turn.
-Fear	3	Bard, Sorcerer, Warlock, Wizard	Illusion	1 action	Self	30 ft. cone	white feather or hen heart	1	1 minute	WIS (Fail)			Targets drop everything and use Dash to run away. WIS save once out of sight.
-Grease	1	Wizard	Conjuration	1 action	60 ft.	10 ft. square	pork rind or butter		1 minute	DEX (Fail)			Creatures in area or entering area fall prone if they fail DEX save.
-Find the Path	6	Bard, Cleric, Druid	Divination	1 minute	Self		diviner tools,object from target	1	1 day				Find the shortest, most direct route to a place you are familiar with.
-Control Weather	8	Cleric, Druid, Wizard	Transmutation	10 minutes	Self	5 mile radius	incense, earth&wood in water	1	8 hours				Control the weather. See Sourcebook.
-Sanctuary	1	Cleric, Paladin(Devotion)	Abjuration	1 bonus action	30 ft.	1 creature	small silver mirror		1 minute				Those choosing to attack target must make WIS save or choose new target.
-Death Ward	4	Cleric, Paladin	Abjuration	1 action	Touch	1 willing creature			8 hours				1 use: Target drops to 1 HP instead of 0 HP or negates instant kill effect.
-Ensnaring Strike	1	Paladin(Ancients), Ranger	Conjuration	1 bonus action	Self	Attack target		1	1 minute	STR (Fail)	Piercing	DAM: 1d6 a turn	Restrain target. Large and bigger creatures have advantage to save.
-Lesser Restoration	2	Bard, Cleric, Druid, Paladin, Ranger	Abjuration	1 action	Touch	1 creature			Instantaneous				End one disease or condition (blind, deaf, paralyzed, poisoned) on target.
-Scorching Ray	2	Cleric(Light), Sorcerer, Wizard	Evocation	1 action	120 ft.	<= 3 creatures			Instantaneous	Ranged Spell Attack	Fire	DAM: 2d6x3	Shoot 3 rays at up to 3 targets.
-Color Spray	1	Sorcerer, Wizard	Illusion	1 action	Self	15 ft. cone	pinch of colored powder		1 round				Blinds 6d10 HP worth of creatures, starting with lowest HP.
-Locate Animals or Plants	2	Bard, Druid, Ranger	Divination	1 action	Self	Kind of beast or plant	bloodhound fur		Instantaneous				Name a kind of beast or plant and find the nearest one within 5 miles.
-Guidance	0	Cleric, Druid	Divination	1 action	Touch	1 willing creature		1	1 minute				Once, add 1d4 to an ability check.
-Calm Emotions	2	Bard, Cleric	Enchantment	1 action	60 ft.	20 ft. radius sphere		1	1 minute	CHA (Fail)			Suppress charm effects or hostility on target.
-Passwall	5	Druid(Mountain), Wizard	Transmutation	1 action	30 ft.		pinch of sesame seeds		1 hour				Create 5ft wide, 8ft tall,20ft deep opening in wall, ceiling, or floor.
-Project Image	7	Bard, Wizard	Illusion	1 action	500 miles		small replica of self	1	1 day				Create image of self you can see/hear/speak/move (x2 speed) through.
-Hunter's Mark	1	Paladin(Vengeance), Ranger	Divination	1 bonus action	90 ft.	1 creature		1	1 hour				Mark quarry. Extra 1d6 DAM on weapon hit. Advantage on rolls to find it.
-Demiplane	8	Warlock, Wizard	Conjuration	1 action	60 ft.				1 hour				Create door to 30 ft. cubic room in demiplane. Trapped if there when spell ends.
-Sleep	1	Bard, Sorcerer, Wizard	Enchantment	1 action	90 ft.	20 ft. radius	pinch of fine sand		1 minute				5d8 total HP of creatures in area fall asleep. Go in order of lowest HP to hightest.
-Evard's Black Tentacles	4	Wizard	Conjuration	1 action	90 ft.	20 ft. square	piece of octopus temtacle	1	1 minute	DEX while in area (Fail)	Bludgeoning	DAM: 3d6	Also restrained. Restrained take DAM every turn. STR/DEX check to get free.
-Delayed Blast Fireball	7	Sorcerer, Wizard	Evocation	1 action	150 ft.	20 ft. radius sphere	tiny ball of guano and sulfur	1	1 minute	DEX (Half DAM)	Fire	DAM: 12d6	Creates spot where fireball will erupt. See Sourcebook.
-Branding Smite	2	Paladin	Evocation	1 bonus action	Self	Self		1	1 minute	Weapon Attack	Radiant	DAM: 2d6	Target becomes visible, sheds dim light.
-Ray of Frost	0	Sorcerer, Wizard	Evocation	1 action	60 ft.	1 creature in range			Instantaneous	Ranged Spell Attack	Cold	DAM: 1d8	Speed -10ft. DAM increase. 5th level: 2d8, 11th level: 3d8, 17th level: 4d8.
-Ray of Sickness	1	Cleric(Death), Sorcerer, Wizard	Necromancy	1 action	60 ft.	1 creature in range			Instantaneous	Ranged Spell Attack	Poison	DAM: 2k8	Target also makes CON save. On fail, poisoned until end of next turn.
-Magic Missile	1	Sorcerer, Wizard	Evocation	1 action	120 ft.	Any creature in range.			Instantaneous		Force	DAM:(1d4+1)x3	You choose the target for each dart that does 1d4+1 DAM.
-Phantom Steed	3	Wizard	Illusion	1 minute	30 ft.				1 hour				You and 1 other can ride phantom steed. Speed=100ft or 10mph (13 fast).
-Heroism	1	Bard, Paladin	Enchantment	1 action	Touch	1 willing creature		1	1 minute				Immune to being frightened. Temp HP equal to casting ability modifier each turn.
-Leomund's Tiny Hut	3	Bard, Wizard	Evocation	1 minute	Self	10 ft. radius hemisphere	small crystal bead		8 hours				Protect <= 9 creatures in hut from spells, creatures, elements.
-Regenerate	7	Bard, Cleric, Druid	Transmutation	1 minute	Touch	1 creature	prayer wheel and holy water		1 hour			HEAL: 4d8+15	Target HEAL 1 HP at start of every turn. Severed parts return after 2 minutes.
-Guiding Bolt	1	Cleric	Evocation	1 action	120 ft.	1 creature			1 round	Ranged Spell Attack	Radiant	DAM: 4d6	Next attack roll against target before end of your next turn has advantage.
-Contingency	6	Wizard	Evocation	10 minutes	Self	Self	ivory statue of self		10 days				Spell <= 5th level activates when condition occurs. That spell's slot used too.
-Vicious Mockery	0	Bard	Enchantment	1 action	60 ft.	1 creature			Instantaneous	WIS (Fail)	Psychic	DAM: 1d4	Disadvantage to attack.DAM increase.5th level:2d4,11th level:3d4,17th level:4d4
-Shield of Faith	1	Cleric, Paladin	Abjuration	1 bonus action	60 ft.	1 creature	small parchment with holy text	1	10 minutes				Target gains +2 bonus to AC.
-Gate	9	Cleric, Sorcerer, Wizard	Conjuration	1 action	60 ft.	5-20 ft. diameter gate	diamond	1	1 minute				Create portal to precise location on another plane or near a specific person.
-Bigby's Hand	5	Wizard	Evocation	1 action	120 ft.		eggshell, snakeskin glove	1	1 minute		Force	See Sourcebook.	Create giant hand to do various things. See Sourcebook.
-Planar Ally	6	Cleric	Conjuration	10 minutes	60 ft.				Instantaneous				Ask otherworldly entity for aid. See Sourcebook.
-Animate Dead	3	Cleric, Paladin(Oathbreaker), Wizard	Necromancy	1 minute	10 ft.	<= Medium corpse	blood, flesh, bone		Instantaneous				Creates skeleton or zombie servant that accepts simple directions
-Speak with Dead	3	Bard, Cleric	Necromancy	1 action	10 ft.	1 dead creature	burning incense		10 minutes				Ask corpse <= 5 questions. Get brief, cryptic answers. Can be lies.
-Conjure Barrage	3	Ranger	Conjuration	1 action	Self	60 ft. cone	ammo or thrown weapon		Instantaneous	DEX (Half DAM)	See Details	DAM: 3d8	Damage type is same as ammo/weapon used as component.
-Telepathy	8	Wizard	Evocation	1 action	Unlimited	1 willing creature	pair of linked silver rings		24 hours				Telepathically communicate words, sounds, images with target (INT >= 1).
-Storm of Vengeance	9	Druid	Conjuration	1 action	Sight	360 ft. radius		1	1 minute	See Sourcebook.	See Sourcebook.	See Sourcebook.	Magical storm attacks targets in range. See Sourcebook.
-Bane	1	Bard, Cleric, Paladin(Vengeance)	Enchantment	1 action	30 ft.	<= 3 creatures	drop of blood	1	1 minute	CHA (Fail)			Targets' attack rolls and saving throws are deducted 1d4.
-Reverse Gravity	7	Druid, Sorcerer, Wizard	Transmutation	1 action	100 ft.	50 ft. radius	lodestone and iron filings	1	1 minute	DEX (grab fixed object)			Creatures fall upwards, taking falling damage. Fall again once spell ends.
-Longstrider	1	Bard, Druid, Ranger, Wizard	Transmutation	1 action	Touch	1 creature	pinch of dirt		1 hour				Target's speed increases by 10 ft.
-Entangle	1	Druid	Conjuration	1 action	90 ft.	20 ft. square		1	1 minute	STR (Fail)			Creatures become restrained.Use action to use STR against spell DC to escape.
-Commune	5	Cleric, Paladin(Devotion)	Divination	1 minute	Self		incense, vial of holy water		1 minute				Ask 3 yes/no questions that are answered by deity. See Sourcebook.
-Mass Heal	9	Cleric	Conjuration	1 action	60 ft.	Any creature in range.			Instantaneous			See Details.	Targets HEAL total of 700 HP and cured of diseases, blindness, and deafness.
-Prestidigitation	0	Bard, Sorcerer, Warlock, Wizard	Transmutation	1 action	10 ft.				1 hour				Create minor magical effect. See Sourcebook.
-False Life	1	Cleric(Death), Sorcerer, Wizard	Necromancy	1 action	Self	Self	alcohol or distilled spirits		1 hour				You gain 1d4+4 temp HP.
-Protection from Poison	2	Cleric, Druid, Paladin, Ranger	Abjuration	1 action	Touch	1 willing creature			1 hour				Target has 1 poison neutralized, advantage on poison save, resists poison DAM.
-See Invisibility	2	Bard, Sorcerer, Wizard	Divination	1 action	Self	Self	pinch of talc and silver powder		1 hour				See invisible and ethereal creatures.
-Wall of Fire	4	Cleric(Light), Druid, Sorcerer, Wizard	Evocation	1 action	120 ft.	See Sourcebook.	small piece of phosphorous	1	1 minute	DEX (Half DAM)	Fire	DAM: 5d8	Those entering or ending turn on one side of the wall take 5d8 fire DAM.
-Mind Blank	8	Bard, Wizard	Abjuration	1 action	Touch	1 willing creature			24 hours				Target immune to psychic damage, charm, mind reading, divinations.
-Healing Word	1	Bard, Cleric, Druid	Evocation	1 bonus action	60 ft.	1 creature			Instantaneous				Target HEAL 1d4 + spellcasting ability. No effect on constructs/undead.
-Cone of Cold	5	Druid(Arctic), Sorcerer, Wizard	Evocation	1 action	Self	60 ft. cone	crystal or glass cone		Instantaneous	CON (Half DAM)	Cold	DAM: 8d8	Creatures killed become frozen statues.
-Phantasmal Force	2	Bard, Sorcerer, Wizard	Illusion	1 action	60 ft.	1 creature	bit of fleece	1	1 minute	INT (Fail)			Affect target with illusion. Can DAM for 1d6 Psychic. See Sourcebook.
-Dispel Evil and Good	5	Cleric, Paladin	Abjuration	1 action	Self	Self	holy water or silver/iron powder	1	1 minute				Fey,undead,extraplanar creatures have disadvantaged attacks. See Sourcebook.
-Planar Binding	5	Bard, Cleric, Druid, Wizard	Abjuration	1 hour	60 ft.	1 extraplanar creature	JEWEL		24 hours	CHA (Fail)			Bind celestial, elemental, fey, or fiend to serve you for spell duration.
-Spike Growth	2	Cleric(Nature), Druid, Ranger	Transmutation	1 action	150 ft.	20 ft. radius	7 sharp thorns or twigs	1	10 minutes				Difficult terrain. Moving into or within area takes 2d4 piercing DAM per 5 ft.
-Harm	6	Cleric	Necromancy	1 action	60 ft.	1 creature			Instantaneous	CON (Half DAM)	Necrotic	DAM: 14d6	Max HP reduced by same amount as DAM. Target cannot fall below 1 HP.
-Shield	1	Sorcerer, Wizard	Abjuration	1 reaction (on hit by attack/magic missile)	Self	Self			1 round				Gain +5 bonus to AC, including triggering attack. Negates Magic Missile attacks.
-Feather Fall	1	Bard, Sorcerer, Wizard	Transmutation	1 reaction (falling)	60 ft.	<= 5 falling creatures	small feather or piece of down		1 minute				Targets' descent slows to 60 ft. per round, takes no DAM, and can land on feet.
-Zone of Truth	2	Bard, Cleric, Paladin	Enchantment	1 action	60 ft.	15 ft. radius sphere			10 minutes	CHA (Fail)			You know which fail saves. They can't lie but know of spell and can be evasive.
-Create Food and Water	3	Cleric, Druid(Desert), Paladin	Conjuration	1 action	30 ft.				Instantaneous				Create 45 lbs. of bland, nourishing food for 24 hours and 30 gallons of water.
-Sequester	7	Wizard	Transmutation	1 action	Touch	1 willing creature or object	GEM POWDER		Until Dispelled				Hide target from detection, falls into suspended animation. Condition can end it.
-Acid Splash	0	Sorcerer, Wizard	Conjuration	1 action	60 ft.	1 or 2 adjacent targets			Instantaneous	DEX (Fail)	Acid	DAM: 1d6	DAM: Add extra 1d6 at 5th level, 11th level, and 17th level.
-Create or Destroy Water	1	Cleric, Druid	Transmutation	1 action	30 ft.	10 gal. water/30 ft. cube of fog	drop of water/sand		Instantaneous				Create/destroy 10 gal. of water or 30 ft. cube of rain/fog.
-Darkvision	2	Druid, Ranger, Sorcerer, Wizard	Transmutation	1 action	Touch	1 willing creature	dried carrot or agate		8 hours				Grants creature darkvision (60 ft.) but can't see in Darkness aura.
-Druidcraft	0	Cleric(Nature), Druid	Transmutation	1 action	30 ft.	See Sourcebook.			Instantaneous				Create minor druidic effect. See Sourcebook.
-Meteor Swarm	9	Sorcerer, Wizard	Evocation	1 action	1 mile	40 ft. radius sphere			Instantaneous	DEX (Half DAM)	Fire+Bludgeoning	DAM20d6+20d6	Also damages objects and ignites flammable objects.
-Clone	8	Wizard	Necromancy	1 hour	Touch		See Sourcebook.		Instantaneous				Create clone of living person; soul transfers to clone if original dies.
-Lightning Arrow	3	Ranger, Sorcerer	Transmutation	1 bonus action	Self	1 target		1	1 minute	Ranged Weapon Attack.	Lightning	DAM: 4d8	Creatures within 10 ft. of initial target also take 2d8 DAM (DEX save for half).
-Message	0	Bard, Sorcerer, Wizard	Transmutation	1 action	120 ft.	1 creature in range	piece of copper wire		1 round				Point at target and whisper a message. They can whisper a response.
-Programmed Illusion	6	Bard, Wizard	Illusion	1 action	120 ft.	30 ft. cube	fleece, jade dust		Until Dispelled				Create illusion that performs specific action triggered by specific action.
-Dominate Monster	8	Bard, Sorcerer, Warlock, Wizard	Enchantment	1 action	60 ft.	1 creature		1	1 hour	WIS (Fail)			Charm monster to give it commands. Has advantage to save if attacking it.
-Commune with Nature	5	Druid, Paladin(Ancients), Ranger	Divination	1 minute	Self				Instantaneous				Gain knowledge of the land around you. See Sourcebook.
-Arcane Gate	6	Sorcerer, Warlock, Wizard	Conjuration	1 action	500 ft.	Point(10ft),Point(500ft.)		1	10 minutes				Create two linked portals 10ft. across anybody can travel between.
-Conjure Elemental	5	Druid, Wizard	Conjuration	1 minute	90 ft.		See Sourcebook	1	1 hour				Summon elemental CR <= 5. Obeys commands. Hostile if control is lost.
-Continual Flame	2	Cleric, Wizard	Evocation	1 action	Touch	1 object	RUBY DUST		Until Dispelled				Heatless flame comes from object. Can be covered but not snuffed out.
-Comprehend Languages	1	Bard, Sorcerer, Warlock, Wizard	Divination	1 action	Self		pinch of soot and salt		1 hour				Know literal meaning of any speech. Understand written words while touching.
-Blur	2	Druid(Desert), Sorcerer, Wizard	Illusion	1 action	Self	Self		1	1 minute				Creatures relying on sight have disadvantage to attack.
-Silent Image	1	Bard, Sorcerer, Wizard	Illusion	1 action	60 ft.	15 ft. cube	bit of fleece	1	10 minutes				Create visual-only illusion. Use action to make it move. Investigation to discover.
-Call Lightning	3	Cleric(Tempest), Druid	Conjuration	1 action	120 ft.	60 ft. radius cylinder		1	10 minutes	DEX (Half DAM)	Lightning	DAM: 3d10	Targets take DAM each round. Can change targets each round.
-Moonbeam	2	Druid, Paladin(Ancients)	Evocation	1 action	120 ft.	5 ft. rad. 40 ft. high cylinder	moonseed seeds, feldspar	1	1 minute	CON (Half DAM)	Radiant	DAM: 2d10	DAM taken entering/start turn in beam. Shapechanges disadvantage to save.
-Magic Circle	3	Cleric, Paladin, Warlock, Wizard	Abjuration	1 minute	10 ft.	10 ft. rad., 20 ft. high cylinder	HOLY WATER or Fe/Ag DUST		1 hour				Hinder one creature type within cylinder. See Sourcebook.
-Raise Dead	5	Bard, Cleric, Paladin	Necromancy	1 hour	Touch	1 dead creature	DIAMOND		Instantaneous				Return target to life with 1 HP. See Sourcebook.
-Heal	6	Cleric, Druid	Evocation	1 action	60 ft.	1 creature			Instantaneous			HEAL: 70	Ends blindness, deafness, any diseases. No effect on constructs/undead.
-Enthrall	2	Bard, Warlock	Enchantment	1 action	60 ft.	Any targets in range			1 minute	WIS (Fail)			Disadvantage to see anybody but you; attacked ones have advantage to save.
-Ray of Enfeeblement	2	Cleric(Death), Warlock, Wizard	Necromancy	1 action	60 ft.	1 creature in range		1	1 minute	Ranged Spell Attack			Target deals 1/2 DMG with STR weapon attacks. CON save to end at turn's end.
-Control Water	4	Cleric, Druid, Wizard	Transmutation	1 action	300 ft.	100 ft. cube	water drop, pinch of dust	1	10 minutes				Control water. See Sourcebook.
-Stone Shape	4	Cleric, Druid, Wizard	Transmutation	1 action	Touch	5 ft. cube	soft clay in desired shape		Instantaneous				Reshape stone into any rough shape you wish.
-Conjure Fey	6	Druid, Warlock	Conjuration	1 minute	90 ft.			1	1 hour				Summon fey CR <= 6. Obeys commands. Hostile if control is lost.
-Flaming Sphere	2	Cleric(Light), Druid, Wizard	Conjuration	1 action	60 ft.	5 ft. diameter sphere	tallow,brimstone,iron powder	1	1 minute	DEX (Half DAM)	Fire	DAM: 2d6	Creatures next to spheres at end of turn take DAM. Move spheres 30 ft.
-Phantasmal Killer	4	Wizard	Illusion	1 action	120 ft.	1 creature		1	1 minute	WIS (Fail)	Psychic	DAM: 4d10	Target is frightened and takes DAM at start of turn if it doesn't save.
-Magic Weapon	2	Cleric(War), Paladin, Wizard	Transmutation	1 bonus action	Touch	1 nonmagical weapon		1	1 hour				Nonmagical weapon becomes +1.
-Fire Shield	4	Wizard	Evocation	1 action	Self	Self	bit of phosphorous or a firefly		10 minutes		Fire/Cold	DAM: 2d8	Choose warm or chill shield. Melee attackers take DMG. Light out 10 ft./20 ft.
-Find Traps	2	Cleric, Druid, Ranger	Divination	1 action	120 ft.	Any trap in range			Instantaneous				Sense the presence (not location) of any magical or mundane trap nearby.
-Identify	1	Bard, Cleric(Knowledge), Wizard	Divination	1 minute	Touch	1 object	pearl, owl feather		Instantaneous				Learn what an item is and what spells affect it.
-Aura of Life	4	Paladin	Abjuration	1 action	Self	30 ft. radius		1	10 minutes				Gain necrotic resistance, HEAL 1 HP if at 0 HP, HP max can't go down.
-Sleet Storm	3	Cleric(Tempest), Druid, Sorcerer, Wizard	Conjuration	1 action	150 ft.	40 ft. rad. 20 ft. tall cylinder	pinch of dust, drops of water	1	1 minute	DEX (Fail)			Difficult terrain.Each turn,DEX save or fall prone,CON save or lose concentration.
-Alarm	1	Ranger, Wizard	Abjuration	1 minute	30 ft.	1 door/window/area	tiny bell, silver wire		8 hours				Audible or silent alarm triggered on entry by those you haven't said can enter
-Wall of Thorns	6	Druid	Conjuration	1 action	120 ft.	See Sourcebook.	handful of thorns	1	10 minutes	DEX (Half DAM)	Piercing	DAM: 7d8	Move through wall at 1/4 speed and take 7d8 slashing DAM (DEX save for half).
-True Strike	0	Bard, Sorcerer, Warlock, Wizard	Divination	1 action	30 ft.	1 creature		1	1 round				Next turn you gain advantage on first attack against the target.
-Blink	3	Cleric(Trickery), Sorcerer, Wizard	Transmutation	1 action	Self	Self			1 minute				Roll 11 or higher to go to Ethereal plane between turns; reapper within 10ft.
-Swift Quiver	5	Ranger	Transmutation	1 bonus action	Touch	Spell component	quiver with at least 1 ammo	1	1 minute				Quiver produces endless ammo.Use bonus action for 2 attacks using ammo.
-Teleportation Circle	5	Bard, Sorcerer, Wizard	Conjuration	1 minute	10 ft.	10 ft. diameter circle	CHALK & INK mixed with gems		1 round				Any stepping inside circle teleport to permanent teleportation circle.
-Jump	1	Druid, Ranger, Sorcerer, Wizard	Transmutation	1 action	Touch	1 creature	grasshopper's hind leg		1 minute				Target's jump distance tripled until spell ends.
-Mordenkainen's Magnificent Mansion	7	Bard, Wizard	Conjuration	1 minute	300 ft.		portal(5),marble(5),spoon(5)		24 hours				Summon portal to 50000 cubic ft. mansion with food for 100 people.
-Flesh to Stone	6	Warlock, Wizard	Transmutation	1 action	60 ft.	1 creature	pinch of lime, water, and earth	1	1 minute	CON (Fail)			Restrained on first fail. Petrified after 3 fails.
-Arcane Eye	4	Cleric(Knowledge), Wizard	Divination	1 action	30 ft.		a bit of bat fur	1	1 hour				Create invisible eye with darkvision(30ft) moves 30ft/rd you can see through.
-Destructive Wave	5	Cleric(Tempest), Paladin	Evocation	1 action	Self	30 ft. radius			Instantaneous	CON (Half DAM, not prone)	See Details	DAM: 5d6+5d6	Targets in circle take thunder DAM, then radiant or necrotic DAM; go prone.
-Crusader's Mantle	3	Cleric(War), Paladin	Evocation	1 action	Self	30 ft. radius		1	1 minute				Nonhostiles in aura deal an extra 1d4 radiant DAM.
-Greater Restoration	5	Bard, Cleric, Druid	Abjuration	1 action	Touch	1 creature	DIAMOND DUST		Instantaneous				End a debilitating effect on target. See Sourcebook.
-True Seeing	6	Bard, Cleric, Sorcerer, Warlock, Wizard	Divination	1 action	Touch	1 willing creature	OINTMENT FOR EYES		1 hour				Target creature gains truesight, sees secret doors, Ethereal Plane. Range 120 ft.
-Prayer of Healing	2	Cleric	Evocation	10 minutes	30 ft.	<= 6 creatures you choose			Instantaneous			See Details.	Targets HEAL 2d8 + casting ability modifier HP. No effect on undead/constructs.
-Expeditious Retreat	1	Sorcerer, Warlock, Wizard	Transmutation	1 bonus action	Self	Self		1	10 minutes				You can take Dash as a bonus action until spell ends.
-Hunger of Hadar	3	Warlock	Conjuration	1 action	150 ft.	20 ft. radius sphere	pickled octopus tentacle	1	1 minute				Start turn in area: 2d6 cold DAM.End turn in area: DEX save or 2d6 acid DAM.
-Wish	9	Sorcerer, Wizard	Conjuration	1 action	Self	Self			Instantaneous				Replicate and spell <= 8th level or other powerful effect granted. See Sourcebook.
-Glyph of Warding	3	Bard, Cleric, Wizard	Abjuration	1 hour	Touch	See Sourcebook.	incense, DIAMOND POWDER		Dispel/Triggered				Create a magical trap. See Sourcebook.
-Insect Plague	5	Cleric, Druid, Sorcerer	Conjuration	1 action	300 ft.	20 ft. radius sphere	bit of sugar, grain, and fat	1	10 minutes	CON (Half DAM)	Piercing	DAM: 4d10	Targets make save when swarm created or entering or exiting it.
-Shapechange	9	Druid, Wizard	Transmutation	1 action	Self	Self	jade circlet	1	1 hour				Assume the form of a different creature. See Sourcebook.
-Wrathful Smite	1	Paladin	Evocation	1 bonus action	Self	1 creature		1	1 minute	Melee Weapon Attack	Psychic	DAM: 1d6	Target hit also makes WIS save or is frightened. WIS save to end effect.
-Foresight	9	Bard, Druid, Warlock, Wizard	Divination	1 minute	Touch	1 willing creature	hummingbird feather		8 hours				Not surprised. Advantage:attacks,checks,saves. Disadvantage getting attacked.
-Otto's Irresistable Dance	6	Bard, Wizard	Enchantment	1 action	30 ft.	1 creature		1	1 minute				No movement.Disadvantage on DEX saves and attacks.Use action to WIS save.
-Antipathy/Sympathy	8	Druid, Wizard	Enchantment	1 hour	60 ft.	1 Huge or smaller target	lump of alum or honey		10 days	WIS (Fail)			Target object/creature attracts or repels specifc creature types.
-Knock	2	Bard, Sorcerer, Wizard	Transmutation	1 action	60 ft.	1 openable object			Instantaneous				Open mundane lock or suppress an Arcane Lock for 10 minutes. Loud knock.
-Remove Curse	3	Cleric, Paladin, Warlock, Wizard	Abjuration	1 action	Touch	1 creature or object			Instantaneous				Remove curse creature or break object's curse attunement to any target.
-Mordenkainen's Faithful Hound	4	Wizard	Conjuration	1 action	30 ft.		silver whistle, bone, thread		8 hours		Piercing	DAM: 4d8	Spectral hound guards area and can attack hostiles. See Sourcebook.
-Thorn Whip	0	Cleric(Nature), Druid	Transmutation	1 action	30 ft.		stem of thorny plant		Instantaneous	Melee Spell Attack	Piercing	DAM: 1d6	Pulled 10 ft to root. DAM increase. 5th level: 2d6, 11th level: 3d6, 17th level: 4d6.
-Lightning Bolt	3	Druid(Mountain), Sorcerer, Wizard	Evocation	1 action	Self	100 ft. line	bit of fur and glass rod		Instantaneous	DEX (Half DAM)	LIghtning	DAM: 8d6	Lightning ignites flammable objects.
-Stoneskin	4	Cleric(War), Druid, Paladin(Ancients), Ranger, Sorcerer, Wizard	Abjuration	1 action	Touch	1 willing creature	DIAMOND DUST	1	1 hour				Target gains resistance to nonmagical bludgeoning, piercing, and slashing DMG.
-Locate Object	2	Bard, Cleric, Druid, Paladin, Ranger, Wizard	Divination	1 action	Self	1 object familiar to you	forked twig	1	10 minutes				Sense object direction within 1000 ft. or locate it within 30 ft.
-Cloudkill	5	Cleric(Death), Druid(Underdark), Sorcerer, Wizard	Conjuration	1 action	120 ft.	20 ft. radius sphere		1	10 minutes	CON (Half DAM)	Poison	DAM: 5d8	DAM taken on entering or starting turn in area. Fog moves away 10 ft. per turn.
-Wind Wall	3	Cleric(Nature), Druid, Ranger	Evocation	1 action	120 ft.	See Sourcebook.	tiny fan and exotic feather	1	1 minute	STR (Half DAM)	Bludgeoning	DAM: 3d8	Strong wind keeps gases, flying creatures, projectiles, gaseous creatures away.
-Compelled Duel	1	Paladin	Enchantment	1 bonus action	30 ft.	1 creature		1	1 minute	WIS (Fail)			Compel target to attack you one-on-one. See Sourcebook.
-Clairvoyance	3	Bard, Cleric, Sorcerer, Wizard	Divination	10 minutes	1 mile		jeweled horn or glass eye	1	10 minutes				Create sensor in area you can see or hear through.
-Cordon of Arrows	2	Ranger	Transmutation	1 action	5 ft.	Spell components	4 pieces of ammo		8 hours	DEX (Fail)	Piercing	DAM: 1d6	Ammo fired at creatures within 30 ft. Spell ends when ammo gone.
-Staggering Smite	4	Paladin	Evocation	1 bonus action	Self	Self		1	1 minute	Melee Weapon Attack	Psychic	DAM: 4d6	WIS save or disadvantage on attack & ability checks; can't take reactions.
-Crown of Madness	2	Bard, Paladin(Oathbreaker), Sorcerer, Warlock, Wizard	Enchantment	1 action	120 ft.	1 humanoid		1	1 minute	WIS every turn (Fail)			Charm humanoid to attack your target of choice. Use action to keep control.
-Astral Projection	9	Cleric, Warlock, Wizard	Necromancy	1 hour	10 ft.	Self and 8 willing targets	JACINTH(1k), SILVER(100)		Special				Project to Astral Plane. See Sourcebook.
-Imprisonment	9	Warlock, Wizard	Abjuration	1 minute	30 ft.	1 creature	See Sourcebook.		Until Dispelled	WIS (Fail)			Magically restrain a creature. See sourcebook.
-Silence	2	Bard, Cleric, Druid(Desert), Ranger	Illusion	1 action	120 ft.	20 ft. radius sphere		1	10 minutes				Creatures in area are deafened, immune to thunder DMG, can't cast verbally.
-Vampiric Touch	3	Cleric(Death), Warlock, Wizard	Necromancy	1 action	Self	Self		1	1 minute	Melee Spell Attack	Necrotic	DAM: 3d6	Each time you hit a target, you also HEAL half of the DAM you cause.
-Greater Invisibility	4	Bard, Druid(Underdark), Sorcerer, Wizard	Illusion	1 action	Touch	Self or willing creature		1	1 minute				Become invisible until spell ends.
-Tree Stride	5	Cleric(Nature), Druid, Paladin(Ancients), Ranger	Conjuration	1 action	Self	Self		1	1 minute				Enter one tree and emerge from another 500 ft. away. Use once per round.
-Eldritch Blast	0	Warlock	Evocation	1 action	120 ft.	1 target			Instantaneous	Ranged Spell Attack	Force	DAM: 1d10	Beam. 2 beams at 5th level, 3 at 11th, 4 at 17th. Can choose different targets.
-Warding Bond	2	Cleric	Abjuration	1 action	Touch	1 willing creature	pair of platinum rings		1 hour				Target (60ft) has +1 AC and saves, resistance to all DAM, shares DAM with you.
-Hallow	5	Cleric	Evocation	24 hours	Touch	60 ft. radius	HERBS, OIL, INCENSE		Until Dispelled				Infuse area with holy or unholy power. See Sourcebook.
-Arcane Lock	2	Wizard	Abjuration	1 action	Touch	1 openable object	GOLD DUST		Until Dispelled				Locks object until password is spoken or dispel/knock. Object break DC +10.
-Meld into Stone	3	Cleric, Druid	Transmutation	1 action	Touch	Stone object or surface			8 hours				Meld into stone walls or large stone objects. See Sourcebook.
-Tasha's Hideous Laughter	1	Bard, Wizard	Enchantment	1 action	30 ft.	1 creature	tiny tarts and a feather	1	1 minute	WIS (Fail)			Target (INT > 4) is prone, incapacitated, can't stand. WIS save each turn to end.
-Modify Memory	5	Bard, Cleric(Trickery), Wizard	Enchantment	1 action	30 ft.			1	1 minute	WIS (Fail)			Reshape another creature's memories. See Sourcebook.
-Mislead	5	Bard, Wizard	Illusion	1 action	Self	Self		1	1 hour				Become invisible and create illusory double. Use action to move your double.
-Detect Evil and Good	1	Cleric, Paladin	Divination	1 action	Self	30 ft. radius		1	10 minutes				Know location of aberration,celestial,elemental,fey,fiend,undead,(un)holy ground.
-Mass Suggestion	6	Bard, Sorcerer, Warlock, Wizard	Enchantment	1 action	60 ft.	<= 12 creatures	snake's tongue, honeycomb		24 hours	WIS (Fail)			Make creatures accept reasonable sounding suggestions. See Sourcebook.
-Gaseous Form	3	Druid(Underdark), Sorcerer, Warlock, Wizard	Transmutation	1 action	Touch	1 willing creature	bit of gauze and wisp of smoke	1	1 hour				Cloud form. Fly(10ft.). Resist nonmagical DMG. STR/DEX/CON save advantage.
-Resistance	0	Cleric, Druid	Abjuration	1 action	Touch	1 willing creature	miniature cloak	1	1 minute				Once before spell ends, add 1d4 to a saving throw. Roll before or after save.
-Conjure Animals	3	Druid, Ranger	Conjuration	1 action	60 ft.			1	1 hour				Summon fey spirits as creatures (total CR <= 2) that act as a group.
-Beacon of Hope	3	Cleric, Paladin(Devotion)	Abjuration	1 action	30 ft.	Any targets in range		1	1 hour				Targets get advantage on WIS and death saving throws; heal spells heal max.
-Confusion	4	Bard, Cleric(Knowledge), Druid, Paladin(Oathbreaker), Sorcerer, Wizard	Enchantment	1 action	90 ft.	10 ft. radius sphere	3 nut shells	1	1 minute	WIS (Fail)			Targets can't take reactions and do random actions. See Sourcebook.
-Spare the Dying	0	Cleric	Necromancy	1 action	Touch	1 living creature at 0 HP			Instantaneous				Stabilize dying creature. No effect on undead or constructs.
-Speak with Plants	3	Bard, Druid, Ranger	Transmutation	1 action	Self	30 ft. radius			10 minutes				Animate plants to communicate with and perform tasks. See Sourcebook.
-Eyebite	6	Bard, Sorcerer, Warlock, Wizard	Necromancy	1 action	Self	1 creature within 60 ft.		1	1 minute	WIS (Fail)			Affect targets negatively. New target each turn. See Sourcebook.
-Hallucinatory Terrain	4	Bard, Druid, Warlock, Wizard	Illusion	10 minutes	300 ft.	150 ft. cube	stone, twig, bit of green plant		24 hours				Make natural terrain seem like other terrain. Investigation check to disbelieve.
-Circle of Power	5	Paladin	Abjuration	1 action	Self	30 ft. radius sphere		1	10 minutes				Friendlies: advantage on saving throws against magic/effects. No half DAM.
-Antimagic Field	8	Cleric, Wizard	Abjuration	1 action	10 ft. radius	Self	powdered iron or filings	1	1 hour				Erects a sphere around you in which all magic no longer works.
-Protection from Evil and Good	1	Cleric, Paladin, Warlock, Wizard	Abjuration	1 action	Touch	1 willing creature	holy water or powdered silver	1	10 minutes				Protect against certain types of creatures. See Sourcebook.
-Gentle Repose	2	Cleric, Wizard	Necromancy	1 action	Touch	1 corpse	salt and 1 cp on each eye		10 days				Preserves corpse. Extends time limit of Raise Dead spell.
-Mage Armor	1	Sorcerer, Wizard	Abjuration	1 action	Touch	1 willing creature	piece of cured leather		8 hours				If target isn't wearing armor, its base AC becomes 13 + DEX modifier.
-Detect Magic	1	Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard	Divination	1 action	Self	30 ft. radius		1	10 minutes				Sense presence of magic. Use action to see auras around creatures/objects.
-Revivify	3	Cleric, Paladin	Conjuration	1 action	Touch	1 creature	DIAMOND		Instantaneous				Raise creature that died within 1 minute to 1 HP. Doesn't restore missing parts.
-Spider Climb	2	Druid(Forest,Mountain,Underdark), Sorcerer, Warlock, Wizard	Transmutation	1 action	Touch	1 willing creature	spider and drop of bitumen	1	1 hour				Target can walk on walls or ceiling. Climbing speed becomes walking speed.
-Burning Hands	1	Cleric(Light), Sorcerer, Wizard	Evocation	1 action	Self	15 ft. cone			Instantaneous	DEX (Half DAM)	Fire	DAM: 3d6	Flammable objects ignite.
-Mass Cure Wounds	5	Bard, Cleric, Druid	Conjuration	1 action	60 ft.	<= 6 creatures			Instantaneous			See Details.	Creatures HEAL 3d8 + casting ability modifier. No effect on undead/constructs.
-Feeblemind	8	Bard, Druid, Warlock, Wizard	Enchantment	1 action	150 ft.	1 creature	clay,crystal,or mineral spheres		Instantaneous	INT (DMG, but no INT effect)	Psychic	DAM: 4d6	Creature INT and CHA scores become 1. See Sourcebook.
-Flame Strike	5	Cleric, Paladin(Devotion)	Evocation	1 action	60 ft.	40 ft. high 10 ft. rad. cylinder	pinch of sulfur		Instantaneous	DEX (Half DAM)	Fire + Radiant	DAM: 4d6+4d6	Creatures take fire and radiant damage.
-Alter Self	2	Sorcerer, Wizard	Transmutation	1 action	Self	Self		1	1 hour				Choose one: breathe/swim underwater, natural weapons, change appearance
-Giant Insect	4	Druid	Transmutation	1 action	30 ft.	See Sourcebook.		1	10 minutes				Turn insects into giant insects that obey your commands.
-Speak with Animals	1	Bard, Cleric(Nature), Druid, Paladin(Ancients), Ranger	Divination	1 action	Self	Self			10 minutes				Understand and speak to beasts. Get info about nearby locations and monsters.
-Magic Mouth	2	Bard, Wizard	Illusion	1 minute	30 ft.	1 object	honeycomb and JADE DUST		Until Dispelled				Magic mouth repeats <= 25 word message once condition is met.
-Stinking Cloud	3	Bard, Druid(Swamp,Underdark), Sorcerer, Wizard	Conjuration	1 action	90 ft.	20 ft. radius sphere	rotten egg or skunk cabbage	1	1 minute	CON (Fail)			Creatures that need to breathe spend turn retching. Wind disperses cloud.
-Prismatic Wall	9	Wizard	Abjuration	1 action	60 ft.	90x30 ft wall or 30ft dia. sphere			Instantaneous	See Sourcebook.	See Sourcebook.	See Sourcebook.	Create multicolored barrier with various effects. See Sourcebook.
-Poison Spray	0	Cleric(Nature), Druid, Sorcerer, Warlock, Wizard	Conjuration	1 action	10 ft.	1 creature			Instantaneous	CON (Fail)	Poison	DAM: 1d12	DAM increase. 5th level: 2d12, 11th level: 3d12, 17th level: 4d12.
-Tenser's Floating Disk	1	Wizard	Conjuration	1 action	30 ft.	3 ft. diameter circle	drop of mercury		1 hour				Create floating disk that holds 500 lbs and stays within 20 ft. of you.
-Wind Walk	6	Druid	Transmutation	1 minute	30 ft.	You and <= 10 willing creatures	fire and holy water		8 hours				Fly speed: 300 ft. Resist weapons.Only Dash in cloud form. Can revert to normal.
-Symbol	7	Bard, Cleric, Wizard	Abjuration	1 minute	Touch	1 surface or object	Hg, P, DIAMOND and OPAL		Dispel/Triggered	See Sourcebook.	See Sourcebook.	See Sourcebook.	Inscribe harmful magical glyph on surface. See Sourcebook.
-True Resurrection	9	Cleric, Druid	Necromancy	1 hour	Touch	1 creature dead <= 200 years	holy water, DIAMONDS		Instantaneous				Resurrect creature that didn't die of old age. Heals all wounds, effects, etc.
-Awaken	5	Bard, Druid	Transmutation	8 hours	Touch	1 beast/plant <= Huge	AGATE		Instantaneous				Target with INT <= 3 gaints INT 10 and can speak. Charmed for 30 days.
-Hex	1	Warlock	Enchantment	1 bonus action	90 ft.	1 creature	petrified eye of a newt	1	1 hour				Target takes 1d6 necrotic DAM when you hit it;disadvantage on ability of choice.
-Divination	4	Cleric, Druid(Forest,Grassland)	Divination	1 action	Self		INCENSE, SAC. OFFERING		Instantaneous				Question about one event in next 7 days answered by phrase or omen.
-Wall of Force	5	Wizard	Evocation	1 action	120 ft.	See Sourcebook.	powder from clear gemstone	1	10 minutes				Create impenetrable wall (even into Ethereal Plane) only unmade by Disintegrate.
-Fly	3	Sorcerer, Warlock, Wizard	Transmutation	1 action	Touch	1 willing creature	bird's wing feather	1	10 minutes				Target gains fly (60 ft.). Fall if spell ends while in air.
-Polymorph	4	Bard, Cleric(Trickery), Druid, Sorcerer, Wizard	Transmutation	1 action	60 ft.	1 creature	caterpillar cocoon	1	1 hour	WIS (Fail)			Transform creature's form. All stats change. Limited to actions of new form.
-Heroes' Feast	6	Cleric, Druid	Conjuration	10 minutes	30 ft.	<= 12 feast goers	GEM--ENCRUSTED BOWL		Instantaneous				Cure:disease,poison.Immune:poison,fright.HP max +2d10,WIS save advantage.
-Creation	5	Sorcerer, Wizard	Illusion	1 minute	30 ft.		bit of matter you want to make		See Sourcebook.				Make nonliving object no larger than 5 ft. cube. See Sourcebook.
-Plane Shift	7	Cleric, Druid, Sorcerer, Warlock, Wizard	Conjuration	1 action	Touch	1 unwilling or Self + 8 willing	forked metal rod		Instantaneous	Melee Spell Attack + CHA (Fail)			Transport to another plane. You specify general location or teleportation circle.
-Holy Aura	8	Cleric	Abjuration	1 action	Self	30 ft. radius sphere	reliquary containing sacred relic	1	1 minute				Aura helps allies and hurts enemies. See Sourcebook.
-Chromatic Orb	1	Sorcerer, Wizard	Evocation	1 action	90 ft.	1 creature	diamond		Instantaneous	Ranged Spell Attack	See Details	DAM: 3d8	Choose type: acid, cold, fire, lightning, poison, or thunder.
-Major Image	3	Bard, Sorcerer, Warlock, Wizard	Illusion	1 action	120 ft.	20 ft. cube	bit of fleece	1	10 minutes				Create image of object including sounds, smells. Investigation check to foil.
-Aura of Purity	4	Paladin	Abjuration	1 action	Self	30 ft. radius		1	10 minutes				Gain poison resist, disease immune, advantage on status saving throws.
-Seeming	5	Bard, Sorcerer, Wizard	Illusion	1 action	30 ft.	Any creatures in range			8 hours	CHA (Fail)			Disguise willing or unwillig creatures as other similar creatures, including outfits.
-Incendiary Cloud	8	Sorcerer, Wizard	Conjuration	1 action	150 ft.	20 ft. radius sphere		1	1 minute	DEX every turn (Half DMG)	Fire	DAM: 10d8	Targets make save when cloud created or entering or exiting it. Cloud move: 10ft.
-Hail of Thorns	1	Ranger	Conjuration	1 bonus action	Self	Self		1	1 minute	DEX (Half DAM)	Piercing	DAM: 1d10	Target hit by ranged attack and those adjacent who fail save hit by thorns.
-Reincarnate	5	Druid	Transmutation	1 hour	Touch	1 dead humanoid	RARE OILS AND UNGUENTS		Instantaneous				Resurrect dead humanoid into a random humanoid body. See Sourcebook.
 Blade Barrier	6	Cleric	Evocation	1 action	90 ft.	5x20x(100 line/60 dia. circle)ft.		1	10 minutes	DEX (Half DAM)	Slashing	DAM: 6d10	Creatures entering wall/circle area take DAM.
-Conjure Woodland Beings	4	Druid, Ranger	Conjuration	1 action	60 ft.		1 holly berry per creature	1	1 hour				Summon fey creatures (CR <= 2) that obey commands.
-Chill Touch	0	Cleric(Death), Sorcerer, Warlock, Wizard	Necromancy	1 action	120 ft.	1 creature			1 round	Ranged Spell Attack	Necrotic	DAM: 1d6	Extra 1d6 DAM at 5th level, 11th level, and 17th level. Can't regain HP.
-Chain Lightning	6	Sorcerer, Wizard	Evocation	1 action	150 ft.	1 target, then 3 within 30ft.	bit of fur,glass,3 silver pins		Instantaneous	DEX (Half DAM)	Lightning	DAM: 10d8	Bolt hits one target then forks to up to 3 others.
-Friends	0	Bard, Sorcerer, Warlock, Wizard	Enchantment	1 action	Self	1 non-hostile creature	makeup applied to face	1	1 minute				Advantage on CHA checks to target, who knows magic used once spell ends.
-Animal Friendship	1	Bard, Cleric(Nature), Druid, Ranger	Enchantment	1 action	30 ft.	1 beast	morsel of food		24 hours	WIS (Fail)			Charm beasts with INT <= 3; spell fails if you hurt beast
-Aura of Vitality	3	Paladin	Evocation	1 action	Self	30 ft. radius		1	1 minute			HEAL: 2d6	Use bonus action to HEAL 1 target in aura.
-Enlarge/Reduce	2	Sorcerer, Wizard	Transmutation	1 action	30 ft.	1 creature or object	powdered iron	1	1 minute	CON (Fail)			Enlarge or reduce target. See Sourcebook.
-Suggestion	2	Bard, Cleric(Knowledge), Sorcerer, Warlock, Wizard	Enchantment	1 action	30 ft.	1 creature	snake's tongue, honeycomb	1	8 hours	WIS (Fail)			Target follows reasonable course of action you suggest. Can specify conditions.
-Web	2	Druid(Underdark), Sorcerer, Wizard	Conjuration	1 action	60 ft.	20 ft. cube	bit of spiderweb	1	1 hour	DEX (Fail)			Every turn:DEX save or restrain;STR save to escape.Burning webs:2d4 fire DAM.
-Thunderwave	1	Bard, Cleric(Tempest), Druid, Sorcerer, Wizard	Evocation	1 action	Self	15 ft. cube			Instantaneous	CON (Half DAM, no push)	Thunder	DAM: 2d8	Creatures failing save and objects pushed 10 ft. Boom heard for 300 ft.
-Find Steed	2	Paladin	Conjuration	10 minutes	30 ft.				Instantaneous				Summons a spirit in the form of a steed. See Sourcebook.
-Blinding Smite	3	Paladin	Evocation	1 bonus action	Self	Self		1	1 minute	CON per turn (Blindness ends)	Radiant	DAM: 3d8	Next melee attack target takes DAM and is blinded until spell ends.
-Protection from Energy	3	Cleric, Druid, Paladin(Ancients,Vengeance), Ranger, Sorcerer, Wizard	Abjuration	1 action	Touch	1 creature		1	1 hour				Creature gains resistance to one of: acid, cold, fire, lightning, or thunder.
-Simulacrum	7	Wizard	Illusion	12 hours	Touch		See Sourcebook.		Until Dispelled				Create duplicate of beast or humanoid that obeys your commands.
-Enhance Ability	2	Bard, Cleric, Druid, Sorcerer	Transmutation	1 action	Touch	1 creature	fur or feather from a beast	1	1 hour				Target creature gains a beneficial effect. See Sourcebook.
-Grasping Vine	4	Cleric(Nature), Druid, Ranger	Conjuration	1 bonus action	30 ft.			1	1 minute	DEX (Fail)			Create vine that lashes out 30 ft. away. Targets failing save pulled 20 ft. to vine.
-Word of Recall	6	Cleric	Conjuration	1 action	5 ft.	You and <= 5 willing creatures			Instantaneous				Instantly teleport to sanctuary you select during prep associated with your deity.
-True Polymorph	9	Bard, Warlock, Wizard	Transmutation	1 action	30 ft.	1 creature or nonmagical object	mercury, gum arabic, smoke	1	1 hour				Transform a creature/object into a different creature/object. See Sourcebook.
-Fog Cloud	1	Cleric(Tempest), Druid, Ranger, Sorcerer, Wizard	Conjuration	1 action	120 ft.	20 ft. radius sphere		1	1 hour				Creates a foggy sphere. Can be banished by moderate wind.
-Slow	3	Druid(Arctic), Sorcerer, Wizard	Transmutation	1 action	120 ft.	<= 6 creatures in 40 ft. cube	drop of molasses	1	1 minute	WIS (Fail)			Affected creatures become slowed. See Sourcebook.
-Finger of Death	7	Sorcerer, Warlock, Wizard	Necromancy	1 action	60 ft.	1 creature			Instantaneous	CON (Half DAM)	Necrotic	DAM: 7d8+30	Humanoids killed rise as a zombie next turn permanently under your control.
-Blindness/Deafness	2	Bard, Cleric, Sorcerer, Wizard	Necromancy	1 action	30 ft.	1 creature			1 minute	CON per turn (Fail)			Target becomes blind or deaf (your choice).
-Fireball	3	Cleric(Light), Sorcerer, Wizard	Evocation	1 action	150 ft.	20 ft. radius sphere	tiny ball of guano and sulfur		Instantaneous	DEX (Half DAM)	Fire	DAM: 8d6	Fire spreads around corners and ignites flammable objects.
-Faerie Fire	1	Bard, Cleric(Light), Druid	Evocation	1 action	60 ft.	20 ft. cube		1	1 minute	DEX (No Light)			Objects/creatures in cube are outlined in light and are attacked with advantage.
-Heat Metal	2	Bard, Druid	Transmutation	1 action	60 ft.	1 metal object	piece of iron and a flame	1	1 minute	See Sourcebook.	Fire	DAM: 2d8	Heat metallic objects including weapons and armor. See Sourcebook.
-Guardian of Faith	4	Cleric, Paladin(Devotion)	Conjuration	1 action	30 ft.				8 hours	DEX (No DAM)	Radiant	DAM: 20	Create spectral guardian that attacks hostiles. Leaves after dealing 60 DAM.
-Detect Poison and Disease	1	Cleric, Druid, Paladin, Ranger	Divination	1 action	Self	30 ft. radius	yew leaf	1	10 minutes				Sense location and type of disease, poison, or poisonous creature.
-Nystul's Magic Aura	2	Wizard	Illusion	1 action	Touch	1 creature or object	small square of silk		24 hours				Divination spells reveal false info about target. See Sourcebook.
-Fire Bolt	0	Sorcerer, Wizard	Evocation	1 action	120 ft.	1 creature/object			Instantaneous	Ranged Spell Attack	Fire	DAM: 1d10	DAM at 5th level: 2d10, at 11th level: 3d10, at 17th level: 4d10.
-Divine Favor	1	Cleric(War), Paladin	Evocation	1 bonus action	Self	Self		1	1 minute				Your weapon attacks deal extra 1d4 radiant DAM on a hit.
-Tsunami	8	Druid	Conjuration	1 minute	Sight	300 ft x 300 ft x 50 ft water		1	6 rounds	STR (Half DAM)	Bludgeoning	DAM: 6d10	Creatures make STR save to avoid more damage (1d10 less DMG each round).
-Create Undead	6	Cleric, Warlock, Wizard	Necromancy	1 minute	10 ft.		See Sourcebook.		Instantaneous				Create undead to serve you for 24 hours. See Sourcebook.
-Disintegrate	6	Sorcerer, Wizard	Transmutation	1 action	60 ft.	1 creature	lodestone and pinch of dust		Instantaneous	DEX (Fail)	Force	DAM: 10d6+40	If target drops to 0 HP, is disintegrated. Only revived by True Resurrection.
-Locate Creature	4	Bard, Cleric, Druid, Paladin, Ranger, Wizard	Divination	1 action	Self	1 creature familiar to you	bloodhound fur		Instantaneous				Sense creature direction within 1000 ft. or locate it within 30 ft.
-Tongues	3	Bard, Cleric, Sorcerer, Warlock, Wizard	Divination	1 action	Touch	1 creature	clay model of a ziggurat		1 hour				Target understands any spoken language and is understood by everyone else.
-Disguise Self	1	Bard, Cleric(Trickery), Sorcerer, Wizard	Illusion	1 action	Self	Self			1 hour				Create illusion to appear as someone else. Foiled by Investigation vs. spell DC.
-Thaumaturgy	0	Cleric	Transmutation	1 action	30 ft.				Up to 1 minute				Create minor magical effect. See Sourcebook.
-Command	1	Cleric, Paladin	Enchantment	1 action	60 ft.	1 creature			1 round	WIS (Fail)			Speak 1 word command to target. Can't cause harm. Doesn't affect undead.
-Aid	2	Cleric, Paladin	Abjuration	1 action	30 ft.	3 allies	white cloth strip		8 hours			HEAL: 5	Each target also increases maximum HP by 5.
-Fabricate	4	Wizard	Transmutation	10 minutes	120 ft.	10 ft. cube			Instantaneous				Convert raw materials into object no bigger than 5 ft. cube.
-Wall of Stone	5	Druid, Sorcerer, Wizard	Evocation	1 action	120 ft.	See Sourcebook.	small block of granite	1	10 minutes	DEX (Move away, not trapped)			Create wall of stone or other stone structure. See Sourcebook.
-Move Earth	6	Druid, Sorcerer, Wizard	Transmutation	1 action	120 ft.	40 ft. square of terrain	iron blade, bag of soil	1	2 hours				Reshape dirt, sand, or clay. Can move to different square after 10 minutes.
-Prismatic Spray	7	Sorcerer, Wizard	Evocation	1 action	Self	60 ft. cone			Instantaneous	See Sourcebook.	See Sourcebook.	See Sourcebook.	Send a rainbow of negative effects at enemies. See Sourcebook.
+Blight	4	Cleric,Druid,Paladin,Sorcerer,Warlock,Wizard	Necromancy	1 action	30 ft.	1 creature			Instantaneous	CON (Half DAM)	Necrotic	DAM: 8d8	Plants have disadvantage on save and take max DAM.
+Counterspell	3	Sorcerer,Warlock,Wizard	Abjuration	1 reaction (spell cast)	60 ft.	1 Spellcaster			Instantaneous	See Details.			Interrupt spell <= 4th. You make casting ability check (DC 10 + spell level).
+Darkvision	2	Druid,Ranger,Sorcerer,Wizard	Transmutation	1 action	Touch	1 willing creature	dried carrot or agate		8 hours				Grants creature darkvision (60 ft.) but can't see in Darkness aura.
+Spider Climb	2	Druid,Sorcerer,Warlock,Wizard	Transmutation	1 action	Touch	1 willing creature	spider and drop of bitumen	1	1 hour				Target can walk on walls or ceiling. Climbing speed becomes walking speed.
+Plane Shift	7	Cleric,Druid,Sorcerer,Warlock,Wizard	Conjuration	1 action	Touch	1 unwilling or Self + 8 willing	forked metal rod		Instantaneous	Melee Spell Attack + CHA (Fail)			Transport to another plane. You specify general location or teleportation circle.
+True Resurrection	9	Cleric,Druid	Necromancy	1 hour	Touch	1 creature dead <= 200 years	holy water, DIAMONDS		Instantaneous				Resurrect creature that didn't die of old age. Heals all wounds, effects, etc.
+Silent Image	1	Bard,Sorcerer,Wizard	Illusion	1 action	60 ft.	15 ft. cube	bit of fleece	1	10 minutes				Create visual-only illusion. Use action to make it move. Investigation to discover.
+Commune	5	Cleric,Paladin	Divination	1 minute	Self		incense, vial of holy water		1 minute				Ask 3 yes/no questions that are answered by deity. See Sourcebook.
+Melf's Acid Arrow	2	Druid,Wizard	Evocation	1 action	90 ft.	1 target	rhubarb leaf, adder's stomach		Instantaneous	Ranged Spell Attack	Acid	DAM: 4d4	Half DAM on miss. On hit, target also takes 2d4 acid DAM at end of next turn.
+Locate Object	2	Bard,Cleric,Druid,Paladin,Ranger,Wizard	Divination	1 action	Self	1 object familiar to you	forked twig	1	10 minutes				Sense object direction within 1000 ft. or locate it within 30 ft.
+Grease	1	Wizard	Conjuration	1 action	60 ft.	10 ft. square	pork rind or butter		1 minute	DEX (Fail)			Creatures in area or entering area fall prone if they fail DEX save.
+Sanctuary	1	Cleric,Paladin	Abjuration	1 bonus action	30 ft.	1 creature	small silver mirror		1 minute				Those choosing to attack target must make WIS save or choose new target.
+Unseen Servant	1	Bard,Warlock,Wizard	Conjuration	1 action	60 ft.		piece of string, bit of wood		1 hour				Create invisible force that can perform simple, menial tasks for you.
+Lightning Arrow	3	Ranger,Sorcerer	Transmutation	1 bonus action	Self	1 target		1	1 minute	Ranged Weapon Attack.	Lightning	DAM: 4d8	Creatures within 10 ft. of initial target also take 2d8 DAM (DEX save for half).
+Thunderous Smite	1	Paladin	Evocation	1 bonus action	Self	1 creature		1	1 minute	Melee Weapon Attack	Thunder	DAM: 2d6	Attack target takes extra thunder DAM and STR save or pushed 10 ft. and prone.
+Magic Jar	6	Wizard	Necromancy	1 minute	Self		ornamental container		Until Dispelled				Your soul enters an external object. See sourcebook.
+Major Image	3	Bard,Sorcerer,Warlock,Wizard	Illusion	1 action	120 ft.	20 ft. cube	bit of fleece	1	10 minutes				Create image of object including sounds, smells. Investigation check to foil.
+Animate Objects	5	Bard,Sorcerer,Wizard	Transmutation	1 action	120 ft.	<= 10 objects		1	1 minute				Animate objects to accept simple commands.
+Etherealness	7	Bard,Cleric,Sorcerer,Warlock,Wizard	Transmutation	1 action	Self	Self			Up to 8 hours				Become ethereal. Move up/down at half speed. Can't see past 60 ft.
+Mage Hand	0	Bard,Sorcerer,Warlock,Wizard	Conjuration	1 action	30 ft.				1 minute				Create spectral hand that manipulates objects. Can pick up <= 10 lbs.
+Produce Flame	0	Cleric,Druid	Conjuration	1 action	Self				10 minutes	Ranged Spell Attack	Fire	DAM: 1d8	Create flame. DAM increase. 5th level: 2d8, 11th level: 3d8, 17th level: 4d8.
+Planar Binding	5	Bard,Cleric,Druid,Wizard	Abjuration	1 hour	60 ft.	1 extraplanar creature	JEWEL		24 hours	CHA (Fail)			Bind celestial, elemental, fey, or fiend to serve you for spell duration.
+Chill Touch	0	Cleric,Sorcerer,Warlock,Wizard	Necromancy	1 action	120 ft.	1 creature			1 round	Ranged Spell Attack	Necrotic	DAM: 1d6	Extra 1d6 DAM at 5th level, 11th level, and 17th level. Can't regain HP.
+Legend Lore	5	Bard,Cleric,Wizard	Divination	10 minutes	Self	1 person, place, or object	INCENSE(250),4 ivory strips(50)		Instantaneous				Learn lore about target. Information is accurate but might use figurative words.
+Tenser's Floating Disk	1	Wizard	Conjuration	1 action	30 ft.	3 ft. diameter circle	drop of mercury		1 hour				Create floating disk that holds 500 lbs and stays within 20 ft. of you.
+Haste	3	Druid,Paladin,Sorcerer,Wizard	Transmutation	1 action	30 ft.	1 willing creature	shaving of licorice root	1	1 minute				Doubles speed. +2 AC. Advantage on DEX saves. Additional action to Dash.
+Disguise Self	1	Bard,Cleric,Sorcerer,Wizard	Illusion	1 action	Self	Self			1 hour				Create illusion to appear as someone else. Foiled by Investigation vs. spell DC.
+Clairvoyance	3	Bard,Cleric,Sorcerer,Wizard	Divination	10 minutes	1 mile		jeweled horn or glass eye	1	10 minutes				Create sensor in area you can see or hear through.
+Seeming	5	Bard,Sorcerer,Wizard	Illusion	1 action	30 ft.	Any creatures in range			8 hours	CHA (Fail)			Disguise willing or unwillig creatures as other similar creatures, including outfits.
+Raise Dead	5	Bard,Cleric,Paladin	Necromancy	1 hour	Touch	1 dead creature	DIAMOND		Instantaneous				Return target to life with 1 HP. See Sourcebook.
+Mirage Arcane	7	Bard,Druid,Wizard	Illusion	10 minutes	Sight	1 square mile			10 days				Create audo,visual,tactile, and olfactory illusion. Only Truesight can detect.
+Bane	1	Bard,Cleric,Paladin	Enchantment	1 action	30 ft.	<= 3 creatures	drop of blood	1	1 minute	CHA (Fail)			Targets' attack rolls and saving throws are deducted 1d4.
+Animal Messenger	2	Bard,Druid,Ranger	Enchantment	1 action	30 ft.	1 Tiny beast	morsel of food		24 hours				Beast will relay 25 word message to a target you describe
+Gust of Wind	2	Cleric,Druid,Sorcerer,Wizard	Evocation	1 action	Self	60 ft. line 10 ft. wide	a legume seed	1	1 minute	STR (Fail)			Push targets 15 ft. in directon of wind. Creatures move half speed against wind.
+Invisibility	2	Bard,Druid,Sorcerer,Warlock,Wizard	Illusion	1 action	Touch	1 creature	eyelash in gum arabic	1	1 hour				Target becomes invisible. Ends if target attacks or casts a spell.
+Holy Aura	8	Cleric	Abjuration	1 action	Self	30 ft. radius sphere	reliquary containing sacred relic	1	1 minute				Aura helps allies and hurts enemies. See Sourcebook.
+Mass Heal	9	Cleric	Conjuration	1 action	60 ft.	Any creature in range.			Instantaneous			See Details.	Targets HEAL total of 700 HP and cured of diseases, blindness, and deafness.
+Geas	5	Bard,Cleric,Druid,Paladin,Wizard	Enchantment	1 minute	60 ft.	1 creature			30 days	WIS (Fail)	See Details.	See Details.	Target must perform task you set. 5d10 psychic DAM whenever it disobeys.
+Feeblemind	8	Bard,Druid,Warlock,Wizard	Enchantment	1 action	150 ft.	1 creature	clay,crystal,or mineral spheres		Instantaneous	INT (DMG, but no INT effect)	Psychic	DAM: 4d6	Creature INT and CHA scores become 1. See Sourcebook.
+Prayer of Healing	2	Cleric	Evocation	10 minutes	30 ft.	<= 6 creatures you choose			Instantaneous			See Details.	Targets HEAL 2d8 + casting ability modifier HP. No effect on undead/constructs.
+Detect Evil and Good	1	Cleric,Paladin	Divination	1 action	Self	30 ft. radius		1	10 minutes				Know location of aberration,celestial,elemental,fey,fiend,undead,(un)holy ground.
+Mordenkainen's Magnificent Mansion	7	Bard,Wizard	Conjuration	1 minute	300 ft.		portal(5),marble(5),spoon(5)		24 hours				Summon portal to 50000 cubic ft. mansion with food for 100 people.
 Spiritual Weapon	2	Cleric	Evocation	1 bonus action	60 ft.				1 minute	Melee Spell Attack	Force	See Details	Magical weapon does 1d8 + casting ability DMG. Can move 20 ft. per turn.
-Mending	0	Bard, Cleric, Druid, Sorcerer, Wizard	Transmutation	1 minute	Touch	1 object	two lodestones		Instantaneous				Mends one break or tear no larger than 1ft. in a mundane object.
-Hold Monster	5	Bard, Cleric(War), Paladin(Vengeance), Sorcerer, Warlock, Wizard	Enchantment	1 action	90 ft.	1 creature	small straight piece of iron	1	1 minute	WIS (Fail)			Target is paralyzed. New saving throw at end of turn. Doesn't work on undead.
-Conjure Celestial	7	Cleric	Conjuration	1 minute	90 ft.			1	1 hour				Summon celestial CR <= 4. Obeys commands that don't violate alignment.
-Time Stop	9	Sorcerer, Wizard	Transmutation	1 action	Self				Instantaneous				Stop time. Take 1d4+1 turns alone. Spell ends if you affect others in any way.
-Cloud of Daggers	2	Bard, Sorcerer, Warlock, Wizard	Conjuration	1 action	60 ft.	5 ft. cube	sliver of glass	1	1 minute		Slashing	DAM: 4d4	DAM taken on entering or starting turn in area.
-Conjure Volley	5	Ranger	Conjuration	1 action	150 ft.	40 ft. radius, 20 ft. high cylinder	ammo or thrown weapon		Instantaneous	DEX (Half DAM)	See Details	DAM: 8d8	Damage type is same as ammo/weapon used as component.
-Forbiddance	6	Cleric	Abjuration	10 minutes	Touch	40,000 sq. ft, 30 ft. high	holy water,incense,ruby powder		1 day		Radiant or Necrotic	DAM: 5d10	Can't teleport/gate into area. A creature type you choose takes DMG in area.
-Mirage Arcane	7	Bard, Druid, Wizard	Illusion	10 minutes	Sight	1 square mile			10 days				Create audo,visual,tactile, and olfactory illusion. Only Truesight can detect.
-Rary's Telepathic Bond	5	Wizard	Divination	1 action	30 ft.	<= 8 willing creatures	eggshell of 2 different creatures		1 hour				Targets can communicate telepathically with each other, but not to other planes.
-Levitate	2	Sorcerer, Wizard	Transmutation	1 action	60 ft.	1 creature or object	small leather loop or golden wire	1	10 minutes	CON (Fail)			Target <= 500 lbs. floats 20 ft.Can move up/down 20ft./turn. Floats down on end.
-Shillelagh	0	Cleric(Nature), Druid	Transmutation	1 bonus action	Touch	1 club or quarterstaff	mistletoe, shamrock, weapon		1 minute				Use casting ability instead of STR for attack,damage. Weapon does 1d8 DMG.
-Beast Sense	2	Druid, Ranger	Divination	1 action	Touch	1 willing beast		1	1 hour				Use action to see/hear whatever beast does. Use action to return.
-Light	0	Bard, Cleric, Wizard	Evocation	1 action	Touch	1 object <= 10 ft. cube	firefly or phosphorescent moss		1 hour	DEX (Fail)			Object sheds light in 20 ft. radious. Hostile targets get DEX save.
+Stinking Cloud	3	Bard,Druid,Sorcerer,Wizard	Conjuration	1 action	90 ft.	20 ft. radius sphere	rotten egg or skunk cabbage	1	1 minute	CON (Fail)			Creatures that need to breathe spend turn retching. Wind disperses cloud.
+Banishing Smite	5	Paladin	Abjuration	1 bonus action	Self	Self		1	1 minute	Weapon Attack	Force	DAM: 5d10	Target banished if <= 50 HP.
+Wall of Ice	6	Wizard	Evocation	1 action	120 ft.	See Sourcebook.	small piece of quartz	1	10 minutes	DEX (Half DAM)	Cold	DAM: 10d6	Ice:AC 12, 30 HP. Moving through ice:take 5d6 cold DAM or CON save for half.
+Augury	2	Cleric	Divination	1 minute	Self	Self	special tokens		Instantaneous				See omen predicting results of action taken within 30 minutes.
+Phantom Steed	3	Wizard	Illusion	1 minute	30 ft.				1 hour				You and 1 other can ride phantom steed. Speed=100ft or 10mph (13 fast).
+Creation	5	Sorcerer,Wizard	Illusion	1 minute	30 ft.		bit of matter you want to make		See Sourcebook.				Make nonliving object no larger than 5 ft. cube. See Sourcebook.
+Divine Favor	1	Cleric,Paladin	Evocation	1 bonus action	Self	Self		1	1 minute				Your weapon attacks deal extra 1d4 radiant DAM on a hit.
+Earthquake	8	Cleric,Druid,Sorcerer	Evocation	1 action	500 ft.	100 ft. radius	piece of dirt, rock, and clay	1	1 minute	See Sourcebook.			Create a seismic disturbance with various effects. See Sourcebook.
+Branding Smite	2	Paladin	Evocation	1 bonus action	Self	Self		1	1 minute	Weapon Attack	Radiant	DAM: 2d6	Target becomes visible, sheds dim light.
+Call Lightning	3	Cleric,Druid	Conjuration	1 action	120 ft.	60 ft. radius cylinder		1	10 minutes	DEX (Half DAM)	Lightning	DAM: 3d10	Targets take DAM each round. Can change targets each round.
+Tongues	3	Bard,Cleric,Sorcerer,Warlock,Wizard	Divination	1 action	Touch	1 creature	clay model of a ziggurat		1 hour				Target understands any spoken language and is understood by everyone else.
+Animal Shapes	8	Druid	Transmutation	1 action	30 ft.	Any willing targets		1	24 hours				Transform targets into Large or smaller beasts with CR <= 4
+Mass Healing Word	3	Cleric	Evocation	1 bonus action	60 ft.	<= 6 creatures			Instantaneous			See Details.	Targets HEAL 1d4 + casting ability modifier. No effect on undead/constructs.
+Power Word Kill	9	Bard,Sorcerer,Warlock,Wizard	Enchantment	1 action	60 ft.	1 creature			Instantaneous			See Details.	If target has <= 100 HP, it dies instantly. No effect otherwise. No saving throw.
+Telekinesis	5	Sorcerer,Wizard	Transmutation	1 action	60 ft.	Creatures or objects in range		1	10 minutes				Move objects or creatures with your mind. See Sourcebook.
+Freedom of Movement	4	Bard,Cleric,Druid,Paladin,Ranger	Abjuration	1 action	Touch	1 willing creature	leather strap around arm		1 hour				Immune to difficult terrain,slow,paralyze,restrain. Spend 5ft to escape restrain.
+Harm	6	Cleric	Necromancy	1 action	60 ft.	1 creature			Instantaneous	CON (Half DAM)	Necrotic	DAM: 14d6	Max HP reduced by same amount as DAM. Target cannot fall below 1 HP.
+Scorching Ray	2	Cleric,Sorcerer,Wizard	Evocation	1 action	120 ft.	<= 3 creatures			Instantaneous	Ranged Spell Attack	Fire	DAM: 2d6x3	Shoot 3 rays at up to 3 targets.
+Shatter	2	Bard,Cleric,Sorcerer,Warlock,Wizard	Evocation	1 action	60 ft.	10 ft. sphere	chip of mica		Instantaneous	CON (Half DAM)	Thunder	DAM: 3d8	Inorganic creatures have disadvantage to save. Objects take DAM too.
+Moonbeam	2	Druid,Paladin	Evocation	1 action	120 ft.	5 ft. rad. 40 ft. high cylinder	moonseed seeds, feldspar	1	1 minute	CON (Half DAM)	Radiant	DAM: 2d10	DAM taken entering/start turn in beam. Shapechanges disadvantage to save.
+Chain Lightning	6	Sorcerer,Wizard	Evocation	1 action	150 ft.	1 target, then 3 within 30ft.	bit of fur,glass,3 silver pins		Instantaneous	DEX (Half DAM)	Lightning	DAM: 10d8	Bolt hits one target then forks to up to 3 others.
+Flesh to Stone	6	Warlock,Wizard	Transmutation	1 action	60 ft.	1 creature	pinch of lime, water, and earth	1	1 minute	CON (Fail)			Restrained on first fail. Petrified after 3 fails.
+Blinding Smite	3	Paladin	Evocation	1 bonus action	Self	Self		1	1 minute	CON per turn (Blindness ends)	Radiant	DAM: 3d8	Next melee attack target takes DAM and is blinded until spell ends.
+Eyebite	6	Bard,Sorcerer,Warlock,Wizard	Necromancy	1 action	Self	1 creature within 60 ft.		1	1 minute	WIS (Fail)			Affect targets negatively. New target each turn. See Sourcebook.
+Expeditious Retreat	1	Sorcerer,Warlock,Wizard	Transmutation	1 bonus action	Self	Self		1	10 minutes				You can take Dash as a bonus action until spell ends.
+Revivify	3	Cleric,Paladin	Conjuration	1 action	Touch	1 creature	DIAMOND		Instantaneous				Raise creature that died within 1 minute to 1 HP. Doesn't restore missing parts.
+Conjure Woodland Beings	4	Druid,Ranger	Conjuration	1 action	60 ft.		1 holly berry per creature	1	1 hour				Summon fey creatures (CR <= 2) that obey commands.
+Imprisonment	9	Warlock,Wizard	Abjuration	1 minute	30 ft.	1 creature	See Sourcebook.		Until Dispelled	WIS (Fail)			Magically restrain a creature. See sourcebook.
+Acid Splash	0	Sorcerer,Wizard	Conjuration	1 action	60 ft.	1 or 2 adjacent targets			Instantaneous	DEX (Fail)	Acid	DAM: 1d6	DAM: Add extra 1d6 at 5th level, 11th level, and 17th level.
+Telepathy	8	Wizard	Evocation	1 action	Unlimited	1 willing creature	pair of linked silver rings		24 hours				Telepathically communicate words, sounds, images with target (INT >= 1).
+True Seeing	6	Bard,Cleric,Sorcerer,Warlock,Wizard	Divination	1 action	Touch	1 willing creature	OINTMENT FOR EYES		1 hour				Target creature gains truesight, sees secret doors, Ethereal Plane. Range 120 ft.
+Message	0	Bard,Sorcerer,Wizard	Transmutation	1 action	120 ft.	1 creature in range	piece of copper wire		1 round				Point at target and whisper a message. They can whisper a response.
+Feign Death	3	Bard,Cleric,Druid,Wizard	Necromancy	1 action	Touch	1 willing creature	pinch of graveyard dirt		1 hour				Creature appears dead. Resists all non-psychic DMG. Disease/poison delayed.
+Friends	0	Bard,Sorcerer,Warlock,Wizard	Enchantment	1 action	Self	1 non-hostile creature	makeup applied to face	1	1 minute				Advantage on CHA checks to target, who knows magic used once spell ends.
+Lesser Restoration	2	Bard,Cleric,Druid,Paladin,Ranger	Abjuration	1 action	Touch	1 creature			Instantaneous				End one disease or condition (blind, deaf, paralyzed, poisoned) on target.
+Mordenkainen's Sword	7	Bard,Wizard	Evocation	1 action	60 ft.		mini platinum sword	1	1 minute	Melee Spell Attack	Force	DAM: 3d10	Use bonus action each turn to move sword <= 20 ft. and attack again.
+Antilife Shell	5	Cleric,Druid	Abjuration	1 action	10 ft. radius	Self		1	1 hour				Erects barrier around you that moves with you. Living creatures cannot enter.
+Insect Plague	5	Cleric,Druid,Sorcerer	Conjuration	1 action	300 ft.	20 ft. radius sphere	bit of sugar, grain, and fat	1	10 minutes	CON (Half DAM)	Piercing	DAM: 4d10	Targets make save when swarm created or entering or exiting it.
+Swift Quiver	5	Ranger	Transmutation	1 bonus action	Touch	Spell component	quiver with at least 1 ammo	1	1 minute				Quiver produces endless ammo.Use bonus action for 2 attacks using ammo.
+Modify Memory	5	Bard,Cleric,Wizard	Enchantment	1 action	30 ft.			1	1 minute	WIS (Fail)			Reshape another creature's memories. See Sourcebook.
+See Invisibility	2	Bard,Sorcerer,Wizard	Divination	1 action	Self	Self	pinch of talc and silver powder		1 hour				See invisible and ethereal creatures.
+Find Traps	2	Cleric,Druid,Ranger	Divination	1 action	120 ft.	Any trap in range			Instantaneous				Sense the presence (not location) of any magical or mundane trap nearby.
+Zone of Truth	2	Bard,Cleric,Paladin	Enchantment	1 action	60 ft.	15 ft. radius sphere			10 minutes	CHA (Fail)			You know which fail saves. They can't lie but know of spell and can be evasive.
+Resistance	0	Cleric,Druid	Abjuration	1 action	Touch	1 willing creature	miniature cloak	1	1 minute				Once before spell ends, add 1d4 to a saving throw. Roll before or after save.
+Mage Armor	1	Sorcerer,Wizard	Abjuration	1 action	Touch	1 willing creature	piece of cured leather		8 hours				If target isn't wearing armor, its base AC becomes 13 + DEX modifier.
+Ray of Enfeeblement	2	Cleric,Warlock,Wizard	Necromancy	1 action	60 ft.	1 creature in range		1	1 minute	Ranged Spell Attack			Target deals 1/2 DMG with STR weapon attacks. CON save to end at turn's end.
+Darkness	2	Druid,Paladin,Sorcerer,Warlock,Wizard	Evocation	1 action	60 ft.	15 ft. radius sphere	bat fur and pitch or coal	1	10 minutes				Creates darkness normal light can't dispel. Dispels light spells <= 2nd level.
+Greater Restoration	5	Bard,Cleric,Druid	Abjuration	1 action	Touch	1 creature	DIAMOND DUST		Instantaneous				End a debilitating effect on target. See Sourcebook.
+Wind Walk	6	Druid	Transmutation	1 minute	30 ft.	You and <= 10 willing creatures	fire and holy water		8 hours				Fly speed: 300 ft. Resist weapons.Only Dash in cloud form. Can revert to normal.
+Storm of Vengeance	9	Druid	Conjuration	1 action	Sight	360 ft. radius		1	1 minute	See Sourcebook.	See Sourcebook.	See Sourcebook.	Magical storm attacks targets in range. See Sourcebook.
+Eldritch Blast	0	Warlock	Evocation	1 action	120 ft.	1 target			Instantaneous	Ranged Spell Attack	Force	DAM: 1d10	Beam. 2 beams at 5th level, 3 at 11th, 4 at 17th. Can choose different targets.
+Charm Person	1	Bard,Cleric,Druid,Sorcerer,Warlock,Wizard	Enchantment	1 action	30 ft.	1 humanoid			1 hour	Wisdom (Fail)			Charm target so it treats you as friendly. Gets advantage to save if fighting you.
+Create Food and Water	3	Cleric,Druid,Paladin	Conjuration	1 action	30 ft.				Instantaneous				Create 45 lbs. of bland, nourishing food for 24 hours and 30 gallons of water.
+Phantasmal Killer	4	Wizard	Illusion	1 action	120 ft.	1 creature		1	1 minute	WIS (Fail)	Psychic	DAM: 4d10	Target is frightened and takes DAM at start of turn if it doesn't save.
+Dominate Person	5	Bard,Cleric,Paladin,Sorcerer,Wizard	Enchantment	1 action	60 ft.	1 person		1	1 minute	WIS (Fail)			Charm humanoid to give it commands. Has advantage to save if attacking it.
+Comprehend Languages	1	Bard,Sorcerer,Warlock,Wizard	Divination	1 action	Self		pinch of soot and salt		1 hour				Know literal meaning of any speech. Understand written words while touching.
+Create Undead	6	Cleric,Warlock,Wizard	Necromancy	1 minute	10 ft.		See Sourcebook.		Instantaneous				Create undead to serve you for 24 hours. See Sourcebook.
+Entangle	1	Druid	Conjuration	1 action	90 ft.	20 ft. square		1	1 minute	STR (Fail)			Creatures become restrained.Use action to use STR against spell DC to escape.
+Elemental Weapon	3	Paladin	Transmutation	1 action	Touch	1 nonmagical weapon		1	1 hour				Weapon is +1 to hit and +1d4 acid, cold, fire, lightning, or thunder DAM.
+Ray of Sickness	1	Cleric,Sorcerer,Wizard	Necromancy	1 action	60 ft.	1 creature in range			Instantaneous	Ranged Spell Attack	Poison	DAM: 2k8	Target also makes CON save. On fail, poisoned until end of next turn.
+Dispel Magic	3	Bard,Cleric,Druid,Paladin,Sorcerer,Warlock,Wizard	Abjuration	1 action	120 ft.	1 creature/object/magical effect			Instantaneous				End spell <= 3rd level. For >= 4th level, casting ability check DC=10+spell level.
+Mass Suggestion	6	Bard,Sorcerer,Warlock,Wizard	Enchantment	1 action	60 ft.	<= 12 creatures	snake's tongue, honeycomb		24 hours	WIS (Fail)			Make creatures accept reasonable sounding suggestions. See Sourcebook.
+Find the Path	6	Bard,Cleric,Druid	Divination	1 minute	Self		diviner tools,object from target	1	1 day				Find the shortest, most direct route to a place you are familiar with.
+Command	1	Cleric,Paladin	Enchantment	1 action	60 ft.	1 creature			1 round	WIS (Fail)			Speak 1 word command to target. Can't cause harm. Doesn't affect undead.
+Minor Illusion	0	Bard,Sorcerer,Warlock,Wizard	Illusion	1 action	30 ft.	5 ft. cube	bit of fleece		1 minute				Create illusory sound or image. Investigation check against spell DC to detect.
 Leomund's Secret Chest	4	Wizard	Conjuration	1 action	Touch	1 chest	chest(5000), replica chest(50)		Instantaneous				Transport chest back and forth from Ethereal Plane using replica.
-Guards and Wards	6	Bard, Wizard	Abjuration	10 minutes	Touch	See Sourcebook.	See sourcebook.		24 hours				Protect an area of space. See Sourcebook.
+Calm Emotions	2	Bard,Cleric	Enchantment	1 action	60 ft.	20 ft. radius sphere		1	1 minute	CHA (Fail)			Suppress charm effects or hostility on target.
+Mordenkainen's Faithful Hound	4	Wizard	Conjuration	1 action	30 ft.		silver whistle, bone, thread		8 hours		Piercing	DAM: 4d8	Spectral hound guards area and can attack hostiles. See Sourcebook.
+Rope Trick	2	Wizard	Transmutation	1 action	Touch	60 ft. rope	powdered corn, parchment loop		1 hour				Climb rope to other space that can hide 8 Medium creatures. Can see outside.
+Delayed Blast Fireball	7	Sorcerer,Wizard	Evocation	1 action	150 ft.	20 ft. radius sphere	tiny ball of guano and sulfur	1	1 minute	DEX (Half DAM)	Fire	DAM: 12d6	Creates spot where fireball will erupt. See Sourcebook.
+Gentle Repose	2	Cleric,Wizard	Necromancy	1 action	Touch	1 corpse	salt and 1 cp on each eye		10 days				Preserves corpse. Extends time limit of Raise Dead spell.
+Guiding Bolt	1	Cleric	Evocation	1 action	120 ft.	1 creature			1 round	Ranged Spell Attack	Radiant	DAM: 4d6	Next attack roll against target before end of your next turn has advantage.
+Armor of Agathys	1	Warlock	Abjuration	1 action	Self	Self	cup of water		1 hour		Cold	DAM: 5	Gain 5 THP. Melee attackers take 5 DAM.
+Conjure Minor Elementals	4	Druid,Wizard	Conjuration	1 minute	90 ft.			1	1 hour				Summon elementals (total CR <= 2) that obey commands.
+Remove Curse	3	Cleric,Paladin,Warlock,Wizard	Abjuration	1 action	Touch	1 creature or object			Instantaneous				Remove curse creature or break object's curse attunement to any target.
+Light	0	Bard,Cleric,Wizard	Evocation	1 action	Touch	1 object <= 10 ft. cube	firefly or phosphorescent moss		1 hour	DEX (Fail)			Object sheds light in 20 ft. radious. Hostile targets get DEX save.
+Tree Stride	5	Cleric,Druid,Paladin,Ranger	Conjuration	1 action	Self	Self		1	1 minute				Enter one tree and emerge from another 500 ft. away. Use once per round.
+Longstrider	1	Bard,Druid,Ranger,Wizard	Transmutation	1 action	Touch	1 creature	pinch of dirt		1 hour				Target's speed increases by 10 ft.
+Slow	3	Druid,Sorcerer,Wizard	Transmutation	1 action	120 ft.	<= 6 creatures in 40 ft. cube	drop of molasses	1	1 minute	WIS (Fail)			Affected creatures become slowed. See Sourcebook.
+Dominate Beast	4	Cleric,Druid,Sorcerer	Enchantment	1 action	60 ft.	1 beast		1	1 minute	WIS (Fail)			Charm beast to give it commands. Has advantage to save if attacking it.
+Arcane Lock	2	Wizard	Abjuration	1 action	Touch	1 openable object	GOLD DUST		Until Dispelled				Locks object until password is spoken or dispel/knock. Object break DC +10.
+Alter Self	2	Sorcerer,Wizard	Transmutation	1 action	Self	Self		1	1 hour				Choose one: breathe/swim underwater, natural weapons, change appearance
+Fire Bolt	0	Sorcerer,Wizard	Evocation	1 action	120 ft.	1 creature/object			Instantaneous	Ranged Spell Attack	Fire	DAM: 1d10	DAM at 5th level: 2d10, at 11th level: 3d10, at 17th level: 4d10.
+Heroes' Feast	6	Cleric,Druid	Conjuration	10 minutes	30 ft.	<= 12 feast goers	GEM--ENCRUSTED BOWL		Instantaneous				Cure:disease,poison.Immune:poison,fright.HP max +2d10,WIS save advantage.
+Misty Step	2	Druid,Paladin,Sorcerer,Warlock,Wizard	Conjuration	1 bonus action	Self	Self			Instantaneous				Teleport <= 30 ft. away to unoccupied location.
+Blade Ward	0	Bard,Sorcerer,Warlock,Wizard	Abjuration	1 action	Self	Self			1 round				Gain resistance to bludgeoning/piercing/slashing DMG from weapons.
+Thaumaturgy	0	Cleric	Transmutation	1 action	30 ft.				Up to 1 minute				Create minor magical effect. See Sourcebook.
+Illusory Script	1	Bard,Warlock,Wizard	Illusion	1 minute	Touch	writing surface	LEAD-BASED INK		10 days				Write magical script on surface that only designated people can read.
+Inflict Wounds	1	Cleric,Paladin	Necromancy	1 action	Touch	1 creature			Instantaneous	Melee Spell Attack	Necrotic	DAM: 3d10	Inflict necrotic damage on target.
+Contact Other Plane	5	Warlock,Wizard	Divination	1 minute	Self				1 minute	INT DC:15(DAM, insane for day)	Psychic	DAM: 6d6	Contact extraplanar being. YOU make save. 1-word answers to 5 questions.
+Awaken	5	Bard,Druid	Transmutation	8 hours	Touch	1 beast/plant <= Huge	AGATE		Instantaneous				Target with INT <= 3 gaints INT 10 and can speak. Charmed for 30 days.
+Regenerate	7	Bard,Cleric,Druid	Transmutation	1 minute	Touch	1 creature	prayer wheel and holy water		1 hour			HEAL: 4d8+15	Target HEAL 1 HP at start of every turn. Severed parts return after 2 minutes.
+Antimagic Field	8	Cleric,Wizard	Abjuration	1 action	10 ft. radius	Self	powdered iron or filings	1	1 hour				Erects a sphere around you in which all magic no longer works.
+Faerie Fire	1	Bard,Cleric,Druid	Evocation	1 action	60 ft.	20 ft. cube		1	1 minute	DEX (No Light)			Objects/creatures in cube are outlined in light and are attacked with advantage.
+Wish	9	Sorcerer,Wizard	Conjuration	1 action	Self	Self			Instantaneous				Replicate and spell <= 8th level or other powerful effect granted. See Sourcebook.
+Blur	2	Druid,Sorcerer,Wizard	Illusion	1 action	Self	Self		1	1 minute				Creatures relying on sight have disadvantage to attack.
+Fire Storm	7	Cleric,Druid	Evocation	1 action	150 ft.	<= ten 10 ft. cubes			Instantaneous	DEX (Half DAM)	Fire	DAM: 7d10	Each cube must face at least one other cube. Can choose not to affect plants.
+Water Breathing	3	Druid,Ranger,Sorcerer,Wizard	Transmutation	1 action	30 ft.	<= 10 willing creatures	short reed or piece of straw		24 hours				Creatures gain ability to breathe underwater using normal respiration.
+Planar Ally	6	Cleric	Conjuration	10 minutes	60 ft.				Instantaneous				Ask otherworldly entity for aid. See Sourcebook.
+Water Walk	3	Cleric,Druid,Ranger,Sorcerer	Transmutation	1 action	30 ft.	<= 10 willing creatures	piece of cork		1 hour				Creaturess walk on liquid, rise 60 ft. per round if under. Still take other damage.
+Stoneskin	4	Cleric,Druid,Paladin,Ranger,Sorcerer,Wizard	Abjuration	1 action	Touch	1 willing creature	DIAMOND DUST	1	1 hour				Target gains resistance to nonmagical bludgeoning, piercing, and slashing DMG.
+Hallow	5	Cleric	Evocation	24 hours	Touch	60 ft. radius	HERBS, OIL, INCENSE		Until Dispelled				Infuse area with holy or unholy power. See Sourcebook.
+Detect Poison and Disease	1	Cleric,Druid,Paladin,Ranger	Divination	1 action	Self	30 ft. radius	yew leaf	1	10 minutes				Sense location and type of disease, poison, or poisonous creature.
+Goodberry	1	Druid,Ranger	Transmutation	1 action	Touch		sprig of mistletoe		Instantaneous				Create <= 10 berries that HEAL 1 HP each. Expire after 24 hours.
+Beast Sense	2	Druid,Ranger	Divination	1 action	Touch	1 willing beast		1	1 hour				Use action to see/hear whatever beast does. Use action to return.
+Dissonant Whispers	1	Bard	Enchantment	1 action	60 ft.	1 creature			Instantaneous	WIS (Fail)	Psychic	DAM: 3d6	Target immediately uses reaction to move as far away as possible.
+Protection from Evil and Good	1	Cleric,Paladin,Warlock,Wizard	Abjuration	1 action	Touch	1 willing creature	holy water or powdered silver	1	10 minutes				Protect against certain types of creatures. See Sourcebook.
+Fire Shield	4	Wizard	Evocation	1 action	Self	Self	bit of phosphorous or a firefly		10 minutes		Fire/Cold	DAM: 2d8	Choose warm or chill shield. Melee attackers take DMG. Light out 10 ft./20 ft.
+Ice Storm	4	Cleric,Druid,Paladin,Sorcerer,Wizard	Evocation	1 action	300 ft.	20 ft. rad, 40ft. high cylinder	pinch of dust, drop of water		Instantaneous	DEX (Half DAM)	Bludgeoning+Cold	DAM: 2d8+4d6	Storm's area of effect becomes difficult terrain until end of next turn.
+Arms of Hadar	1	Warlock	Conjuration	1 action	Self	10 ft. radius			Instantaneous	STR (Half DAM, no effect)	Necrotic	DAM: 2d6	Targets can't take reactions until next turn
+Speak with Dead	3	Bard,Cleric	Necromancy	1 action	10 ft.	1 dead creature	burning incense		10 minutes				Ask corpse <= 5 questions. Get brief, cryptic answers. Can be lies.
+Hunger of Hadar	3	Warlock	Conjuration	1 action	150 ft.	20 ft. radius sphere	pickled octopus tentacle	1	1 minute				Start turn in area: 2d6 cold DAM.End turn in area: DEX save or 2d6 acid DAM.
+Confusion	4	Bard,Cleric,Druid,Paladin,Sorcerer,Wizard	Enchantment	1 action	90 ft.	10 ft. radius sphere	3 nut shells	1	1 minute	WIS (Fail)			Targets can't take reactions and do random actions. See Sourcebook.
+Guardian of Faith	4	Cleric,Paladin	Conjuration	1 action	30 ft.				8 hours	DEX (No DAM)	Radiant	DAM: 20	Create spectral guardian that attacks hostiles. Leaves after dealing 60 DAM.
+Thorn Whip	0	Cleric,Druid	Transmutation	1 action	30 ft.		stem of thorny plant		Instantaneous	Melee Spell Attack	Piercing	DAM: 1d6	Pulled 10 ft to root. DAM increase. 5th level: 2d6, 11th level: 3d6, 17th level: 4d6.
+Cone of Cold	5	Druid,Sorcerer,Wizard	Evocation	1 action	Self	60 ft. cone	crystal or glass cone		Instantaneous	CON (Half DAM)	Cold	DAM: 8d8	Creatures killed become frozen statues.
+Power Word Heal	9	Bard	Evocation	1 action	Touch	1 creature			Instantaneous			HEAL: All HP	Target also cured of charm, fright, paralyze, or stun. Use reaction to stand up.
+Enlarge/Reduce	2	Sorcerer,Wizard	Transmutation	1 action	30 ft.	1 creature or object	powdered iron	1	1 minute	CON (Fail)			Enlarge or reduce target. See Sourcebook.
+Shocking Grasp	0	Sorcerer,Wizard	Evocation	1 action	Touch	1 creature			Instantaneous	Melee Spell Attack	Lightning	DAM: 1d8	Target can't take reactions until next turn. Advantage if target has metal armor.
+Hold Person	2	Bard,Cleric,Druid,Paladin,Sorcerer,Warlock,Wizard	Enchantment	1 action	60 ft.	1 humanoid	small straight piece of iron	1	1 minute	WIS (Fail)			Target is paralyzed. New saving throw at end of turn.
+Heal	6	Cleric,Druid	Evocation	1 action	60 ft.	1 creature			Instantaneous			HEAL: 70	Ends blindness, deafness, any diseases. No effect on constructs/undead.
+Symbol	7	Bard,Cleric,Wizard	Abjuration	1 minute	Touch	1 surface or object	Hg, P, DIAMOND and OPAL		Dispel/Triggered	See Sourcebook.	See Sourcebook.	See Sourcebook.	Inscribe harmful magical glyph on surface. See Sourcebook.
+Shapechange	9	Druid,Wizard	Transmutation	1 action	Self	Self	jade circlet	1	1 hour				Assume the form of a different creature. See Sourcebook.
+Otiluke's Resilient Sphere	4	Wizard	Evocation	1 action	30 ft.	1 creature or object	hemispheres of crystal,arabic	1	1 minute	DEX (Fail)			Trap creature in sphere. Sphere only destroyed by Disintegrate spell.
+Forbiddance	6	Cleric	Abjuration	10 minutes	Touch	40,000 sq. ft, 30 ft. high	holy water,incense,ruby powder		1 day		Radiant or Necrotic	DAM: 5d10	Can't teleport/gate into area. A creature type you choose takes DMG in area.
+Fear	3	Bard,Sorcerer,Warlock,Wizard	Illusion	1 action	Self	30 ft. cone	white feather or hen heart	1	1 minute	WIS (Fail)			Targets drop everything and use Dash to run away. WIS save once out of sight.
+Sleet Storm	3	Cleric,Druid,Sorcerer,Wizard	Conjuration	1 action	150 ft.	40 ft. rad. 20 ft. tall cylinder	pinch of dust, drops of water	1	1 minute	DEX (Fail)			Difficult terrain.Each turn,DEX save or fall prone,CON save or lose concentration.
+Magic Missile	1	Sorcerer,Wizard	Evocation	1 action	120 ft.	Any creature in range.			Instantaneous		Force	DAM:(1d4+1)x3	You choose the target for each dart that does 1d4+1 DAM.
+Purify Food and Drink	1	Cleric,Druid,Paladin	Transmutation	1 action	10 ft.	5 ft. radius			Instantaneous				All nonmagical food and drink in range is rendered free of poison and disease.
+Magic Circle	3	Cleric,Paladin,Warlock,Wizard	Abjuration	1 minute	10 ft.	10 ft. rad., 20 ft. high cylinder	HOLY WATER or Fe/Ag DUST		1 hour				Hinder one creature type within cylinder. See Sourcebook.
+Staggering Smite	4	Paladin	Evocation	1 bonus action	Self	Self		1	1 minute	Melee Weapon Attack	Psychic	DAM: 4d6	WIS save or disadvantage on attack & ability checks; can't take reactions.
+Dimension Door	4	Bard,Cleric,Paladin,Sorcerer,Warlock,Wizard	Conjuration	1 action	500 ft.	Self (and ally within 5 ft.)			Instantaneous				Teleport yourself and ally to location. If occupied, 4d6 force DAM and spell fails.
+Fog Cloud	1	Cleric,Druid,Ranger,Sorcerer,Wizard	Conjuration	1 action	120 ft.	20 ft. radius sphere		1	1 hour				Creates a foggy sphere. Can be banished by moderate wind.
+Hex	1	Warlock	Enchantment	1 bonus action	90 ft.	1 creature	petrified eye of a newt	1	1 hour				Target takes 1d6 necrotic DAM when you hit it;disadvantage on ability of choice.
+Searing Smite	1	Paladin	Evocation	1 bonus action	Self	1 creature		1	1 minute	Melee Weapon Attack	Fire	DAM: 1d6	Target takes initial DAM and CON save at start of each turn or take 1d6 fire.
+Simulacrum	7	Wizard	Illusion	12 hours	Touch		See Sourcebook.		Until Dispelled				Create duplicate of beast or humanoid that obeys your commands.
+Mass Cure Wounds	5	Bard,Cleric,Druid	Conjuration	1 action	60 ft.	<= 6 creatures			Instantaneous			See Details.	Creatures HEAL 3d8 + casting ability modifier. No effect on undead/constructs.
+Meld into Stone	3	Cleric,Druid	Transmutation	1 action	Touch	Stone object or surface			8 hours				Meld into stone walls or large stone objects. See Sourcebook.
+Conjure Fey	6	Druid,Warlock	Conjuration	1 minute	90 ft.			1	1 hour				Summon fey CR <= 6. Obeys commands. Hostile if control is lost.
+Otto's Irresistable Dance	6	Bard,Wizard	Enchantment	1 action	30 ft.	1 creature		1	1 minute				No movement.Disadvantage on DEX saves and attacks.Use action to WIS save.
+Conjure Animals	3	Druid,Ranger	Conjuration	1 action	60 ft.			1	1 hour				Summon fey spirits as creatures (total CR <= 2) that act as a group.
+Prismatic Spray	7	Sorcerer,Wizard	Evocation	1 action	Self	60 ft. cone			Instantaneous	See Sourcebook.	See Sourcebook.	See Sourcebook.	Send a rainbow of negative effects at enemies. See Sourcebook.
+Web	2	Druid,Sorcerer,Wizard	Conjuration	1 action	60 ft.	20 ft. cube	bit of spiderweb	1	1 hour	DEX (Fail)			Every turn:DEX save or restrain;STR save to escape.Burning webs:2d4 fire DAM.
+Circle of Death	6	Sorcerer,Warlock,Wizard	Necromancy	1 action	150 ft.	60 ft. radius sphere	crushed black pearl		Instantaneous	CON (Half DAM)	Necrotic	DAM: 8d6	
+Guards and Wards	6	Bard,Wizard	Abjuration	10 minutes	Touch	See Sourcebook.	See sourcebook.		24 hours				Protect an area of space. See Sourcebook.
+Enhance Ability	2	Bard,Cleric,Druid,Sorcerer	Transmutation	1 action	Touch	1 creature	fur or feather from a beast	1	1 hour				Target creature gains a beneficial effect. See Sourcebook.
+Pass without Trace	2	Cleric,Druid,Ranger	Abjuration	1 action	Self	Willing creatures in range	mistletoe or spruce ash	1	1 hour				Targets get +10 to Stealth checks and can only be tracked by magic.
+Contingency	6	Wizard	Evocation	10 minutes	Self	Self	ivory statue of self		10 days				Spell <= 5th level activates when condition occurs. That spell's slot used too.
+Cloudkill	5	Cleric,Druid,Sorcerer,Wizard	Conjuration	1 action	120 ft.	20 ft. radius sphere		1	10 minutes	CON (Half DAM)	Poison	DAM: 5d8	DAM taken on entering or starting turn in area. Fog moves away 10 ft. per turn.
+Aura of Purity	4	Paladin	Abjuration	1 action	Self	30 ft. radius		1	10 minutes				Gain poison resist, disease immune, advantage on status saving throws.
+Maze	8	Wizard	Conjuration	1 action	60 ft.	1 creature		1	10 minutes	See Details			Target uses action each turn to make INT check (DC 20) to escape.
+Divination	4	Cleric,Druid	Divination	1 action	Self		INCENSE, SAC. OFFERING		Instantaneous				Question about one event in next 7 days answered by phrase or omen.
+Conjure Volley	5	Ranger	Conjuration	1 action	150 ft.	40 ft. radius, 20 ft. high cylinder	ammo or thrown weapon		Instantaneous	DEX (Half DAM)	See Details	DAM: 8d8	Damage type is same as ammo/weapon used as component.
+Dancing Lights	0	Bard,Sorcerer,Wizard	Evocation	1 action	120 ft.		phosphorous or glowworm	1	1 minute				Create 4 glowing, hovering objects that shed light out 10 ft. Can move 60 ft.
+Prismatic Wall	9	Wizard	Abjuration	1 action	60 ft.	90x30 ft wall or 30ft dia. sphere			Instantaneous	See Sourcebook.	See Sourcebook.	See Sourcebook.	Create multicolored barrier with various effects. See Sourcebook.
+Cure Wounds	1	Bard,Cleric,Druid,Paladin,Ranger	Evocation	1 action	Touch	1 creature			Instantaneous			See Details	HEAL: 1d8 + spellcasting ability modifier. No effect on undead or constructs.
+Control Weather	8	Cleric,Druid,Wizard	Transmutation	10 minutes	Self	5 mile radius	incense, earth&wood in water	1	8 hours				Control the weather. See Sourcebook.
+Sunbeam	6	Druid,Sorcerer,Wizard	Evocation	1 action	Self	60 ft. line	magnifying glass	1	1 minute	CON (Half DAM, no blindness)	Radiant	DAM: 6d8	Creatures are blinded until your next turn. Use your action to make a new line.
+Greater Invisibility	4	Bard,Druid,Sorcerer,Wizard	Illusion	1 action	Touch	Self or willing creature		1	1 minute				Become invisible until spell ends.
+Compulsion	4	Bard	Enchantment	1 action	30 ft.	Creatures in range		1	1 minute	WIS (Fail)			Compel targets to move in specified non-hazardous direction.
+Otiluke's Freezing Sphere	6	Wizard	Evocation	1 action	300 ft.	60 ft. radius sphere	small crystal sphere		Instantaneous	CON (Half DAM)	Cold	DAM: 10d6	Water freezes. Can give globe to another who fires it and spell takes effect then.
+Astral Projection	9	Cleric,Warlock,Wizard	Necromancy	1 hour	10 ft.	Self and 8 willing targets	JACINTH(1k), SILVER(100)		Special				Project to Astral Plane. See Sourcebook.
+Jump	1	Druid,Ranger,Sorcerer,Wizard	Transmutation	1 action	Touch	1 creature	grasshopper's hind leg		1 minute				Target's jump distance tripled until spell ends.
+Warding Bond	2	Cleric	Abjuration	1 action	Touch	1 willing creature	pair of platinum rings		1 hour				Target (60ft) has +1 AC and saves, resistance to all DAM, shares DAM with you.
+Hold Monster	5	Bard,Cleric,Paladin,Sorcerer,Warlock,Wizard	Enchantment	1 action	90 ft.	1 creature	small straight piece of iron	1	1 minute	WIS (Fail)			Target is paralyzed. New saving throw at end of turn. Doesn't work on undead.
+Time Stop	9	Sorcerer,Wizard	Transmutation	1 action	Self				Instantaneous				Stop time. Take 1d4+1 turns alone. Spell ends if you affect others in any way.
+Hunter's Mark	1	Paladin,Ranger	Divination	1 bonus action	90 ft.	1 creature		1	1 hour				Mark quarry. Extra 1d6 DAM on weapon hit. Advantage on rolls to find it.
+Evard's Black Tentacles	4	Wizard	Conjuration	1 action	90 ft.	20 ft. square	piece of octopus temtacle	1	1 minute	DEX while in area (Fail)	Bludgeoning	DAM: 3d6	Also restrained. Restrained take DAM every turn. STR/DEX check to get free.
+Conjure Celestial	7	Cleric	Conjuration	1 minute	90 ft.			1	1 hour				Summon celestial CR <= 4. Obeys commands that don't violate alignment.
+Gate	9	Cleric,Sorcerer,Wizard	Conjuration	1 action	60 ft.	5-20 ft. diameter gate	diamond	1	1 minute				Create portal to precise location on another plane or near a specific person.
+Ensnaring Strike	1	Paladin,Ranger	Conjuration	1 bonus action	Self	Attack target		1	1 minute	STR (Fail)	Piercing	DAM: 1d6 a turn	Restrain target. Large and bigger creatures have advantage to save.
+Power Word Stun	8	Bard,Sorcerer,Warlock,Wizard	Enchantment	1 action	60 ft.	1 creature			Instantaneous	See Details.			Target <= 150 HP is stunned. Nothing otherwise. CON save at end of turn to end.
+Spike Growth	2	Cleric,Druid,Ranger	Transmutation	1 action	150 ft.	20 ft. radius	7 sharp thorns or twigs	1	10 minutes				Difficult terrain. Moving into or within area takes 2d4 piercing DAM per 5 ft.
+Speak with Animals	1	Bard,Cleric,Druid,Paladin,Ranger	Divination	1 action	Self	Self			10 minutes				Understand and speak to beasts. Get info about nearby locations and monsters.
+Blink	3	Cleric,Sorcerer,Wizard	Transmutation	1 action	Self	Self			1 minute				Roll 11 or higher to go to Ethereal plane between turns; reapper within 10ft.
+Hellish Rebuke	1	Paladin,Warlock	Evocation	1 reaction (take DAM)	60 ft.	1 creature that damaged you			Instantaneous	DEX (Half DAM)	Fire	DAM: 2d10	Magical counterattack to taking damage.
+Blindness/Deafness	2	Bard,Cleric,Sorcerer,Wizard	Necromancy	1 action	30 ft.	1 creature			1 minute	CON per turn (Fail)			Target becomes blind or deaf (your choice).
+Crusader's Mantle	3	Cleric,Paladin	Evocation	1 action	Self	30 ft. radius		1	1 minute				Nonhostiles in aura deal an extra 1d4 radiant DAM.
+Sequester	7	Wizard	Transmutation	1 action	Touch	1 willing creature or object	GEM POWDER		Until Dispelled				Hide target from detection, falls into suspended animation. Condition can end it.
+Stone Shape	4	Cleric,Druid,Wizard	Transmutation	1 action	Touch	5 ft. cube	soft clay in desired shape		Instantaneous				Reshape stone into any rough shape you wish.
+Witch Bolt	1	Sorcerer,Warlock,Wizard	Evocation	1 action	30 ft.	1 creature	twig from tree struck by lightning	1	1 minute	Ranged Spell Attack	Lightning	DAM: 1d12	Use action to auto hit target hit last round for 1d12 lightning DAM if in range.
+Crown of Madness	2	Bard,Paladin,Sorcerer,Warlock,Wizard	Enchantment	1 action	120 ft.	1 humanoid		1	1 minute	WIS every turn (Fail)			Charm humanoid to attack your target of choice. Use action to keep control.
+Poison Spray	0	Cleric,Druid,Sorcerer,Warlock,Wizard	Conjuration	1 action	10 ft.	1 creature			Instantaneous	CON (Fail)	Poison	DAM: 1d12	DAM increase. 5th level: 2d12, 11th level: 3d12, 17th level: 4d12.
+Conjure Barrage	3	Ranger	Conjuration	1 action	Self	60 ft. cone	ammo or thrown weapon		Instantaneous	DEX (Half DAM)	See Details	DAM: 3d8	Damage type is same as ammo/weapon used as component.
+Death Ward	4	Cleric,Paladin	Abjuration	1 action	Touch	1 willing creature			8 hours				1 use: Target drops to 1 HP instead of 0 HP or negates instant kill effect.
+Divine Word	7	Cleric	Evocation	1 bonus action	30 ft.	Any targets in range			Instantaneous	CHA (Fail)			Targets suffer effects based on their current HP. See Sourcebook.
+Locate Animals or Plants	2	Bard,Druid,Ranger	Divination	1 action	Self	Kind of beast or plant	bloodhound fur		Instantaneous				Name a kind of beast or plant and find the nearest one within 5 miles.
+Demiplane	8	Warlock,Wizard	Conjuration	1 action	60 ft.				1 hour				Create door to 30 ft. cubic room in demiplane. Trapped if there when spell ends.
+Heat Metal	2	Bard,Druid	Transmutation	1 action	60 ft.	1 metal object	piece of iron and a flame	1	1 minute	See Sourcebook.	Fire	DAM: 2d8	Heat metallic objects including weapons and armor. See Sourcebook.
+Sunburst	8	Druid,Sorcerer,Wizard	Evocation	1 action	150 ft.	60 ft. radius sphere	fire and piece of sunstone		Instantaneous	CON (Half DAM, no blindness)	Radiant	DAM: 12d6	Creatures are blinded for 1 minute (CON save at end of turn to end).
+Dominate Monster	8	Bard,Sorcerer,Warlock,Wizard	Enchantment	1 action	60 ft.	1 creature		1	1 hour	WIS (Fail)			Charm monster to give it commands. Has advantage to save if attacking it.
+Phantasmal Force	2	Bard,Sorcerer,Wizard	Illusion	1 action	60 ft.	1 creature	bit of fleece	1	1 minute	INT (Fail)			Affect target with illusion. Can DAM for 1d6 Psychic. See Sourcebook.
+Destructive Wave	5	Cleric,Paladin	Evocation	1 action	Self	30 ft. radius			Instantaneous	CON (Half DAM, not prone)	See Details	DAM: 5d6+5d6	Targets in circle take thunder DAM, then radiant or necrotic DAM; go prone.
+Transport via Plants	6	Druid	Conjuration	1 action	10 ft.	2 >= Large plants, 1 in range			1 round				Enter one plant and emerge from another on same plane you've encountered.
+Reverse Gravity	7	Druid,Sorcerer,Wizard	Transmutation	1 action	100 ft.	50 ft. radius	lodestone and iron filings	1	1 minute	DEX (grab fixed object)			Creatures fall upwards, taking falling damage. Fall again once spell ends.
+Mordenkainen's Private Sanctum	4	Wizard	Abjuration	10 minutes	120 ft.	<= 100 ft. cube	lead,glass,cloth,chrysolite		24 hours				Create magically secure area. See Sourcebook.
+Color Spray	1	Sorcerer,Wizard	Illusion	1 action	Self	15 ft. cone	pinch of colored powder		1 round				Blinds 6d10 HP worth of creatures, starting with lowest HP.
+Cordon of Arrows	2	Ranger	Transmutation	1 action	5 ft.	Spell components	4 pieces of ammo		8 hours	DEX (Fail)	Piercing	DAM: 1d6	Ammo fired at creatures within 30 ft. Spell ends when ammo gone.
+Arcane Eye	4	Cleric,Wizard	Divination	1 action	30 ft.		a bit of bat fur	1	1 hour				Create invisible eye with darkvision(30ft) moves 30ft/rd you can see through.
+False Life	1	Cleric,Sorcerer,Wizard	Necromancy	1 action	Self	Self	alcohol or distilled spirits		1 hour				You gain 1d4+4 temp HP.
+Incendiary Cloud	8	Sorcerer,Wizard	Conjuration	1 action	150 ft.	20 ft. radius sphere		1	1 minute	DEX every turn (Half DMG)	Fire	DAM: 10d8	Targets make save when cloud created or entering or exiting it. Cloud move: 10ft.
+Magic Weapon	2	Cleric,Paladin,Wizard	Transmutation	1 bonus action	Touch	1 nonmagical weapon		1	1 hour				Nonmagical weapon becomes +1.
+Wall of Force	5	Wizard	Evocation	1 action	120 ft.	See Sourcebook.	powder from clear gemstone	1	10 minutes				Create impenetrable wall (even into Ethereal Plane) only unmade by Disintegrate.
+Mending	0	Bard,Cleric,Druid,Sorcerer,Wizard	Transmutation	1 minute	Touch	1 object	two lodestones		Instantaneous				Mends one break or tear no larger than 1ft. in a mundane object.
+Hypnotic Pattern	3	Bard,Sorcerer,Warlock,Wizard	Illusion	1 action	120 ft.	30 ft. cube	glowing stick of incense	1	1 minute	WIS (Fail)			Creatures charmed, incapacitated, speed = 0. Spell ends on DAM or shaking.
+Passwall	5	Druid,Wizard	Transmutation	1 action	30 ft.		pinch of sesame seeds		1 hour				Create 5ft wide, 8ft tall,20ft deep opening in wall, ceiling, or floor.
+Resurrection	7	Bard,Cleric	Necromancy	1 hour	Touch	1 dead creature	DIAMOND		Instantaneous				Resurrect dead creaature. See Sourcebook.
+Bigby's Hand	5	Wizard	Evocation	1 action	120 ft.		eggshell, snakeskin glove	1	1 minute		Force	See Sourcebook.	Create giant hand to do various things. See Sourcebook.
+Locate Creature	4	Bard,Cleric,Druid,Paladin,Ranger,Wizard	Divination	1 action	Self	1 creature familiar to you	bloodhound fur		Instantaneous				Sense creature direction within 1000 ft. or locate it within 30 ft.
+Bless	1	Cleric,Paladin	Enchantment	1 action	30 ft.	<= 3 creatures	sprinkling of holy water	1	1 minute				Targets add 1d4 to attack rolls and saving throws.
+Vampiric Touch	3	Cleric,Warlock,Wizard	Necromancy	1 action	Self	Self		1	1 minute	Melee Spell Attack	Necrotic	DAM: 3d6	Each time you hit a target, you also HEAL half of the DAM you cause.
+Alarm	1	Ranger,Wizard	Abjuration	1 minute	30 ft.	1 door/window/area	tiny bell, silver wire		8 hours				Audible or silent alarm triggered on entry by those you haven't said can enter
+Weird	9	Wizard	Illusion	1 action	120 ft.	30 ft. radius		1	1 minute	WIS (Fail)	Psychic	DAM: 4d10	Affected creatures make WIS saves each turn and take DAM until they save.
+Wind Wall	3	Cleric,Druid,Ranger	Evocation	1 action	120 ft.	See Sourcebook.	tiny fan and exotic feather	1	1 minute	STR (Half DAM)	Bludgeoning	DAM: 3d8	Strong wind keeps gases, flying creatures, projectiles, gaseous creatures away.
+Reincarnate	5	Druid	Transmutation	1 hour	Touch	1 dead humanoid	RARE OILS AND UNGUENTS		Instantaneous				Resurrect dead humanoid into a random humanoid body. See Sourcebook.
+Nystul's Magic Aura	2	Wizard	Illusion	1 action	Touch	1 creature or object	small square of silk		24 hours				Divination spells reveal false info about target. See Sourcebook.
+Prestidigitation	0	Bard,Sorcerer,Warlock,Wizard	Transmutation	1 action	10 ft.				1 hour				Create minor magical effect. See Sourcebook.
+Move Earth	6	Druid,Sorcerer,Wizard	Transmutation	1 action	120 ft.	40 ft. square of terrain	iron blade, bag of soil	1	2 hours				Reshape dirt, sand, or clay. Can move to different square after 10 minutes.
+Druidcraft	0	Cleric,Druid	Transmutation	1 action	30 ft.	See Sourcebook.			Instantaneous				Create minor druidic effect. See Sourcebook.
+Compelled Duel	1	Paladin	Enchantment	1 bonus action	30 ft.	1 creature		1	1 minute	WIS (Fail)			Compel target to attack you one-on-one. See Sourcebook.
+Hail of Thorns	1	Ranger	Conjuration	1 bonus action	Self	Self		1	1 minute	DEX (Half DAM)	Piercing	DAM: 1d10	Target hit by ranged attack and those adjacent who fail save hit by thorns.
+Shield of Faith	1	Cleric,Paladin	Abjuration	1 bonus action	60 ft.	1 creature	small parchment with holy text	1	10 minutes				Target gains +2 bonus to AC.
+Banishment	4	Cleric,Paladin,Sorcerer,Warlock,Wizard	Abjuration	1 action	60 ft.	1 target	item disliked by target	1	1 minute	CHA (Fail)			Banish target to another plane; native of other plane doesn't return after 1 min.
+Globe of Invulnerability	6	Sorcerer,Wizard	Abjuration	1 action	Self	10 ft. radius sphere	glass or crystal bead	1	1 minute				Spells <= 5th level cannot affect those within the globe.
+Wall of Thorns	6	Druid	Conjuration	1 action	120 ft.	See Sourcebook.	handful of thorns	1	10 minutes	DEX (Half DAM)	Piercing	DAM: 7d8	Move through wall at 1/4 speed and take 7d8 slashing DAM (DEX save for half).
+Enthrall	2	Bard,Warlock	Enchantment	1 action	60 ft.	Any targets in range			1 minute	WIS (Fail)			Disadvantage to see anybody but you; attacked ones have advantage to save.
+Scrying	5	Bard,Cleric,Druid,Paladin,Warlock,Wizard	Divination	10 minutes	Self	1 creature	scrying focus	1	10 minutes	WIS (Fail)			Spy on a target located on the same plane as you. See Sourcebook.
+Knock	2	Bard,Sorcerer,Wizard	Transmutation	1 action	60 ft.	1 openable object			Instantaneous				Open mundane lock or suppress an Arcane Lock for 10 minutes. Loud knock.
+True Strike	0	Bard,Sorcerer,Warlock,Wizard	Divination	1 action	30 ft.	1 creature		1	1 round				Next turn you gain advantage on first attack against the target.
+Fireball	3	Cleric,Sorcerer,Wizard	Evocation	1 action	150 ft.	20 ft. radius sphere	tiny ball of guano and sulfur		Instantaneous	DEX (Half DAM)	Fire	DAM: 8d6	Fire spreads around corners and ignites flammable objects.
+Glibness	8	Bard,Warlock	Transmutation	1 action	Self	Self			1 hour				Can replace CHA check rolls with a 15. Spells always detect you telling truth.
+Silence	2	Bard,Cleric,Druid,Ranger	Illusion	1 action	120 ft.	20 ft. radius sphere		1	10 minutes				Creatures in area are deafened, immune to thunder DMG, can't cast verbally.
+Grasping Vine	4	Cleric,Druid,Ranger	Conjuration	1 bonus action	30 ft.			1	1 minute	DEX (Fail)			Create vine that lashes out 30 ft. away. Targets failing save pulled 20 ft. to vine.
+Arcane Gate	6	Sorcerer,Warlock,Wizard	Conjuration	1 action	500 ft.	Point(10ft),Point(500ft.)		1	10 minutes				Create two linked portals 10ft. across anybody can travel between.
+Identify	1	Bard,Cleric,Wizard	Divination	1 minute	Touch	1 object	pearl, owl feather		Instantaneous				Learn what an item is and what spells affect it.
+Disintegrate	6	Sorcerer,Wizard	Transmutation	1 action	60 ft.	1 creature	lodestone and pinch of dust		Instantaneous	DEX (Fail)	Force	DAM: 10d6+40	If target drops to 0 HP, is disintegrated. Only revived by True Resurrection.
+Glyph of Warding	3	Bard,Cleric,Wizard	Abjuration	1 hour	Touch	See Sourcebook.	incense, DIAMOND POWDER		Dispel/Triggered				Create a magical trap. See Sourcebook.
+Rary's Telepathic Bond	5	Wizard	Divination	1 action	30 ft.	<= 8 willing creatures	eggshell of 2 different creatures		1 hour				Targets can communicate telepathically with each other, but not to other planes.
+Tsunami	8	Druid	Conjuration	1 minute	Sight	300 ft x 300 ft x 50 ft water		1	6 rounds	STR (Half DAM)	Bludgeoning	DAM: 6d10	Creatures make STR save to avoid more damage (1d10 less DMG each round).
+True Polymorph	9	Bard,Warlock,Wizard	Transmutation	1 action	30 ft.	1 creature or nonmagical object	mercury, gum arabic, smoke	1	1 hour				Transform a creature/object into a different creature/object. See Sourcebook.
+Burning Hands	1	Cleric,Sorcerer,Wizard	Evocation	1 action	Self	15 ft. cone			Instantaneous	DEX (Half DAM)	Fire	DAM: 3d6	Flammable objects ignite.
+Cloud of Daggers	2	Bard,Sorcerer,Warlock,Wizard	Conjuration	1 action	60 ft.	5 ft. cube	sliver of glass	1	1 minute		Slashing	DAM: 4d4	DAM taken on entering or starting turn in area.
+Protection from Energy	3	Cleric,Druid,Paladin,Ranger,Sorcerer,Wizard	Abjuration	1 action	Touch	1 creature		1	1 hour				Creature gains resistance to one of: acid, cold, fire, lightning, or thunder.
+Project Image	7	Bard,Wizard	Illusion	1 action	500 miles		small replica of self	1	1 day				Create image of self you can see/hear/speak/move (x2 speed) through.
+Wall of Fire	4	Cleric,Druid,Sorcerer,Wizard	Evocation	1 action	120 ft.	See Sourcebook.	small piece of phosphorous	1	1 minute	DEX (Half DAM)	Fire	DAM: 5d8	Those entering or ending turn on one side of the wall take 5d8 fire DAM.
+Plant Growth	3	Bard,Cleric,Druid,Paladin,Ranger	Transmutation	1 action or 8 hours	150 ft.	100 ft. or 1 mile radius			Instantaneous				Cast short term (creatures move 1/4 speed) or long term (double food yield).
+Flame Blade	2	Druid	Evocation	1 bonus action	Self		sumac leaf	1	10 minutes	Melee Spell Attack	Fire	DAM: 3d6	Create fiery scimitar that sheds bright light 10ft. and dim light for another 10ft.
+Protection from Poison	2	Cleric,Druid,Paladin,Ranger	Abjuration	1 action	Touch	1 willing creature			1 hour				Target has 1 poison neutralized, advantage on poison save, resists poison DAM.
+Heroism	1	Bard,Paladin	Enchantment	1 action	Touch	1 willing creature		1	1 minute				Immune to being frightened. Temp HP equal to casting ability modifier each turn.
+Forcecage	7	Bard,Warlock,Wizard	Evocation	1 action	100 ft.	20 ft. square or 10 ft. cube	ruby dust		1 hour	See Details.			Creatures stuck in cage can only leave using magic after CHA save.
+Gaseous Form	3	Druid,Sorcerer,Warlock,Wizard	Transmutation	1 action	Touch	1 willing creature	bit of gauze and wisp of smoke	1	1 hour				Cloud form. Fly(10ft.). Resist nonmagical DMG. STR/DEX/CON save advantage.
+Dream	5	Bard,Druid,Warlock,Wizard	Illusion	1 minute	See Sourcebook.	1 creature	sand,ink,quill from asleep bird		8 hours	See Sourcebook.	See Sourcebook.	See Sourcebook.	Shape creature's dreams. See Sourcebook.
+Giant Insect	4	Druid	Transmutation	1 action	30 ft.	See Sourcebook.		1	10 minutes				Turn insects into giant insects that obey your commands.
+Clone	8	Wizard	Necromancy	1 hour	Touch		See Sourcebook.		Instantaneous				Create clone of living person; soul transfers to clone if original dies.
+Chromatic Orb	1	Sorcerer,Wizard	Evocation	1 action	90 ft.	1 creature	diamond		Instantaneous	Ranged Spell Attack	See Details	DAM: 3d8	Choose type: acid, cold, fire, lightning, poison, or thunder.
+Sacred Flame	0	Cleric	Evocation	1 action	60 ft.	1 creature			Instantaneous	DEX (Fail)	Fire	DAM: 1d8	No cover. DAM increase. 5th level: 2d8, 11th level: 3d8, 17th level: 4d8.
+Teleportation Circle	5	Bard,Sorcerer,Wizard	Conjuration	1 minute	10 ft.	10 ft. diameter circle	CHALK & INK mixed with gems		1 round				Any stepping inside circle teleport to permanent teleportation circle.
+Foresight	9	Bard,Druid,Warlock,Wizard	Divination	1 minute	Touch	1 willing creature	hummingbird feather		8 hours				Not surprised. Advantage:attacks,checks,saves. Disadvantage getting attacked.
+Circle of Power	5	Paladin	Abjuration	1 action	Self	30 ft. radius sphere		1	10 minutes				Friendlies: advantage on saving throws against magic/effects. No half DAM.
+Flaming Sphere	2	Cleric,Druid,Wizard	Conjuration	1 action	60 ft.	5 ft. diameter sphere	tallow,brimstone,iron powder	1	1 minute	DEX (Half DAM)	Fire	DAM: 2d6	Creatures next to spheres at end of turn take DAM. Move spheres 30 ft.
+Commune with Nature	5	Druid,Paladin,Ranger	Divination	1 minute	Self				Instantaneous				Gain knowledge of the land around you. See Sourcebook.
+Healing Word	1	Bard,Cleric,Druid	Evocation	1 bonus action	60 ft.	1 creature			Instantaneous				Target HEAL 1d4 + spellcasting ability. No effect on constructs/undead.
+Wall of Stone	5	Druid,Sorcerer,Wizard	Evocation	1 action	120 ft.	See Sourcebook.	small block of granite	1	10 minutes	DEX (Move away, not trapped)			Create wall of stone or other stone structure. See Sourcebook.
+Shield	1	Sorcerer,Wizard	Abjuration	1 reaction (on hit by attack/magic missile)	Self	Self			1 round				Gain +5 bonus to AC, including triggering attack. Negates Magic Missile attacks.
+Aid	2	Cleric,Paladin	Abjuration	1 action	30 ft.	3 allies	white cloth strip		8 hours			HEAL: 5	Each target also increases maximum HP by 5.
+Thunderwave	1	Bard,Cleric,Druid,Sorcerer,Wizard	Evocation	1 action	Self	15 ft. cube			Instantaneous	CON (Half DAM, no push)	Thunder	DAM: 2d8	Creatures failing save and objects pushed 10 ft. Boom heard for 300 ft.
+Ray of Frost	0	Sorcerer,Wizard	Evocation	1 action	60 ft.	1 creature in range			Instantaneous	Ranged Spell Attack	Cold	DAM: 1d8	Speed -10ft. DAM increase. 5th level: 2d8, 11th level: 3d8, 17th level: 4d8.
+Beacon of Hope	3	Cleric,Paladin	Abjuration	1 action	30 ft.	Any targets in range		1	1 hour				Targets get advantage on WIS and death saving throws; heal spells heal max.
+Flame Strike	5	Cleric,Paladin	Evocation	1 action	60 ft.	40 ft. high 10 ft. rad. cylinder	pinch of sulfur		Instantaneous	DEX (Half DAM)	Fire + Radiant	DAM: 4d6+4d6	Creatures take fire and radiant damage.
+Animate Dead	3	Cleric,Paladin,Wizard	Necromancy	1 minute	10 ft.	<= Medium corpse	blood, flesh, bone		Instantaneous				Creates skeleton or zombie servant that accepts simple directions
+Polymorph	4	Bard,Cleric,Druid,Sorcerer,Wizard	Transmutation	1 action	60 ft.	1 creature	caterpillar cocoon	1	1 hour	WIS (Fail)			Transform creature's form. All stats change. Limited to actions of new form.
+Guidance	0	Cleric,Druid	Divination	1 action	Touch	1 willing creature		1	1 minute				Once, add 1d4 to an ability check.
+Detect Thoughts	2	Bard,Sorcerer,Wizard	Divination	1 action	Self	30 ft. radius	a copper piece	1	1 minute	See Sourcebook.			Read thoughts of those around you. See Sourcebook.
+Mirror Image	2	Cleric,Druid,Sorcerer,Warlock,Wizard	Illusion	1 action	Self	Self			1 minute				Create duplicates that make you harder to hit. See Sourcebook.
+Detect Magic	1	Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Wizard	Divination	1 action	Self	30 ft. radius		1	10 minutes				Sense presence of magic. Use action to see auras around creatures/objects.
+Nondetection	3	Bard,Cleric,Ranger,Wizard	Abjuration	1 action	Touch	1 object, place, or willing target	DIAMOND DUST		8 hours				Hide target from all divination and scrying magic.
+Dispel Evil and Good	5	Cleric,Paladin	Abjuration	1 action	Self	Self	holy water or silver/iron powder	1	1 minute				Fey,undead,extraplanar creatures have disadvantaged attacks. See Sourcebook.
+Spare the Dying	0	Cleric	Necromancy	1 action	Touch	1 living creature at 0 HP			Instantaneous				Stabilize dying creature. No effect on undead or constructs.
+Barkskin	2	Cleric,Druid,Ranger	Transmutation	1 action	Touch	1 willing creature	oak bark	1	1 hour				Target AC is never less than 16 during spell.
+Sleep	1	Bard,Sorcerer,Wizard	Enchantment	1 action	90 ft.	20 ft. radius	pinch of fine sand		1 minute				5d8 total HP of creatures in area fall asleep. Go in order of lowest HP to hightest.
+Aura of Vitality	3	Paladin	Evocation	1 action	Self	30 ft. radius		1	1 minute			HEAL: 2d6	Use bonus action to HEAL 1 target in aura.
+Mind Blank	8	Bard,Wizard	Abjuration	1 action	Touch	1 willing creature			24 hours				Target immune to psychic damage, charm, mind reading, divinations.
+Magic Mouth	2	Bard,Wizard	Illusion	1 minute	30 ft.	1 object	honeycomb and JADE DUST		Until Dispelled				Magic mouth repeats <= 25 word message once condition is met.
+Hallucinatory Terrain	4	Bard,Druid,Warlock,Wizard	Illusion	10 minutes	300 ft.	150 ft. cube	stone, twig, bit of green plant		24 hours				Make natural terrain seem like other terrain. Investigation check to disbelieve.
+Find Steed	2	Paladin	Conjuration	10 minutes	30 ft.				Instantaneous				Summons a spirit in the form of a steed. See Sourcebook.
+Contagion	5	Cleric,Druid,Paladin	Necromancy	1 action	Touch	1 creature			7 days	CON (See Sourcebook)			Give creature a disease. See Sourcebook.
+Daylight	3	Cleric,Druid,Paladin,Ranger,Sorcerer	Evocation	1 action	60 ft.	60 ft. radius sphere			1 hour				Creates bright light. Dispels darkness spells <= 3rd level it overlaps with.
+Fly	3	Sorcerer,Warlock,Wizard	Transmutation	1 action	Touch	1 willing creature	bird's wing feather	1	10 minutes				Target gains fly (60 ft.). Fall if spell ends while in air.
+Levitate	2	Sorcerer,Wizard	Transmutation	1 action	60 ft.	1 creature or object	small leather loop or golden wire	1	10 minutes	CON (Fail)			Target <= 500 lbs. floats 20 ft.Can move up/down 20ft./turn. Floats down on end.
+Shillelagh	0	Cleric,Druid	Transmutation	1 bonus action	Touch	1 club or quarterstaff	mistletoe, shamrock, weapon		1 minute				Use casting ability instead of STR for attack,damage. Weapon does 1d8 DMG.
+Programmed Illusion	6	Bard,Wizard	Illusion	1 action	120 ft.	30 ft. cube	fleece, jade dust		Until Dispelled				Create illusion that performs specific action triggered by specific action.
+Meteor Swarm	9	Sorcerer,Wizard	Evocation	1 action	1 mile	40 ft. radius sphere			Instantaneous	DEX (Half DAM)	Fire+Bludgeoning	DAM20d6+20d6	Also damages objects and ignites flammable objects.
+Find Familiar	1	Wizard	Conjuration	1 hour	10 ft.		CHARCOAL,INCENSE,HERBS		Instantaneous				Gain the service of a familiar. See Sourcebook.
+Conjure Elemental	5	Druid,Wizard	Conjuration	1 minute	90 ft.		See Sourcebook	1	1 hour				Summon elemental CR <= 5. Obeys commands. Hostile if control is lost.
+Antipathy/Sympathy	8	Druid,Wizard	Enchantment	1 hour	60 ft.	1 Huge or smaller target	lump of alum or honey		10 days	WIS (Fail)			Target object/creature attracts or repels specifc creature types.
+Fabricate	4	Wizard	Transmutation	10 minutes	120 ft.	10 ft. cube			Instantaneous				Convert raw materials into object no bigger than 5 ft. cube.
+Teleport	7	Bard,Sorcerer,Wizard	Conjuration	1 action	10 ft.	Self and <= 8 creatures			Instantaneous				Teleport yourself and willing creatures to a distant location. See Sourcebook.
+Continual Flame	2	Cleric,Wizard	Evocation	1 action	Touch	1 object	RUBY DUST		Until Dispelled				Heatless flame comes from object. Can be covered but not snuffed out.
+Suggestion	2	Bard,Cleric,Sorcerer,Warlock,Wizard	Enchantment	1 action	30 ft.	1 creature	snake's tongue, honeycomb	1	8 hours	WIS (Fail)			Target follows reasonable course of action you suggest. Can specify conditions.
+Word of Recall	6	Cleric	Conjuration	1 action	5 ft.	You and <= 5 willing creatures			Instantaneous				Instantly teleport to sanctuary you select during prep associated with your deity.
+Tasha's Hideous Laughter	1	Bard,Wizard	Enchantment	1 action	30 ft.	1 creature	tiny tarts and a feather	1	1 minute	WIS (Fail)			Target (INT > 4) is prone, incapacitated, can't stand. WIS save each turn to end.
+Speak with Plants	3	Bard,Druid,Ranger	Transmutation	1 action	Self	30 ft. radius			10 minutes				Animate plants to communicate with and perform tasks. See Sourcebook.
+Lightning Bolt	3	Druid,Sorcerer,Wizard	Evocation	1 action	Self	100 ft. line	bit of fur and glass rod		Instantaneous	DEX (Half DAM)	LIghtning	DAM: 8d6	Lightning ignites flammable objects.
+Control Water	4	Cleric,Druid,Wizard	Transmutation	1 action	300 ft.	100 ft. cube	water drop, pinch of dust	1	10 minutes				Control water. See Sourcebook.
+Vicious Mockery	0	Bard	Enchantment	1 action	60 ft.	1 creature			Instantaneous	WIS (Fail)	Psychic	DAM: 1d4	Disadvantage to attack.DAM increase.5th level:2d4,11th level:3d4,17th level:4d4
+Mislead	5	Bard,Wizard	Illusion	1 action	Self	Self		1	1 hour				Become invisible and create illusory double. Use action to move your double.
+Feather Fall	1	Bard,Sorcerer,Wizard	Transmutation	1 reaction (falling)	60 ft.	<= 5 falling creatures	small feather or piece of down		1 minute				Targets' descent slows to 60 ft. per round, takes no DAM, and can land on feet.
+Animal Friendship	1	Bard,Cleric,Druid,Ranger	Enchantment	1 action	30 ft.	1 beast	morsel of food		24 hours	WIS (Fail)			Charm beasts with INT <= 3; spell fails if you hurt beast
+Wrathful Smite	1	Paladin	Evocation	1 bonus action	Self	1 creature		1	1 minute	Melee Weapon Attack	Psychic	DAM: 1d6	Target hit also makes WIS save or is frightened. WIS save to end effect.
+Leomund's Tiny Hut	3	Bard,Wizard	Evocation	1 minute	Self	10 ft. radius hemisphere	small crystal bead		8 hours				Protect <= 9 creatures in hut from spells, creatures, elements.
+Sending	3	Bard,Cleric,Wizard	Evocation	1 action	Unlimited	1 creature	short piece of fine copper wire		1 round				Send <= 25 word message to known creature. Get similar reply.
+Create or Destroy Water	1	Cleric,Druid	Transmutation	1 action	30 ft.	10 gal. water/30 ft. cube of fog	drop of water/sand		Instantaneous				Create/destroy 10 gal. of water or 30 ft. cube of rain/fog.
+Drawmij's Instant Summons	6	Wizard	Conjuration	1 minute	Touch	1 object <= 10 lb.	sapphire		Until Dispelled				Speak item name and crush gem to summon object unless it's held by other.
+Spirit Guardian	3	Cleric	Conjuration	1 action	Self	15 ft. radius	holy symbol	1	10 minutes	WIS (Half DAM)	Radiant or Necrotic	DAM: 3d8	Enemy creature speed halved. DMG on enter area: necrotic if evil, radiant if not.
+Finger of Death	7	Sorcerer,Warlock,Wizard	Necromancy	1 action	60 ft.	1 creature			Instantaneous	CON (Half DAM)	Necrotic	DAM: 7d8+30	Humanoids killed rise as a zombie next turn permanently under your control.
+Bestow Curse	3	Bard,Cleric,Paladin,Wizard	Necromancy	1 action	Touch	1 creature		1	1 minute	WIS (Fail)			Curse target. See Sourcebook.
+Aura of Life	4	Paladin	Abjuration	1 action	Self	30 ft. radius		1	10 minutes				Gain necrotic resistance, HEAL 1 HP if at 0 HP, HP max can't go down.

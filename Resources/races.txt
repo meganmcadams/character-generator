@@ -1,0 +1,16 @@
+Elf
+Half-Elf
+Dwarf
+Gnome
+Halfling
+Human
+Half-Orc
+Goblin
+Kobold
+Fairy
+Heyan
+Amben
+Elf
+God(ess)
+Mermaid/man
+Siren
