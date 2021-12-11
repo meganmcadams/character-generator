@@ -12,6 +12,6 @@ def split_spells(spells, classes):
         for item in split:
             class_spells[item].append(s)
 
-    print("Splitting complete.")
+    print("Splitting complete.\n")
 
     return class_spells

@@ -1,18 +1,21 @@
 from Headers.load_spells import *
-from Headers.load_origins import *
-from Headers.load_classes import *
+from Headers.load_objects import *
 from Headers.split_spells import *
-from Headers.load_names import *
-from Headers.load_boons_banes import *
-from Headers.load_races import *
 from Headers.generate import *
+from Headers.print_char import *
 
-# main
+# load
 spells = load_spells()
-origins = load_origins()
-classes = load_classes()
+classes = load_objects("classes")
 class_spells = split_spells(spells, classes)
-names = load_names()
-boons, banes = load_boons_banes()
-races = load_races()
-character = generate(spells, classes, origins, boons, banes, races, names)
+origins = load_objects("origins")
+names = load_objects("names")
+boons = load_objects("boons")
+banes = load_objects("banes")
+races = load_objects("races")
+
+# generate
+character = generate(spells, classes, origins, boons, banes, races, names, class_spells)
+
+# print
+print_char(character)
