@@ -6,6 +6,7 @@ def print_char(character):
     print("Gender:",character['gender'])
     print("Age:",character['age'])
     print("Class:",character['class'])
+    print("Personality:",character['personality'])
     print("Boon:",character['boon'])
     print("Bane:",character['bane'])
     print("Stats:",character['stats'])

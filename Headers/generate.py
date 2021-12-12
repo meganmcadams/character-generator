@@ -1,6 +1,6 @@
 from random import randrange
 
-def generate(spells, classes, origins, boons, banes, races, names, class_spells):
+def generate(spells, classes, origins, boons, banes, races, names, class_spells, personalities):
 
     print("Generating character...")
 
@@ -30,6 +30,7 @@ def generate(spells, classes, origins, boons, banes, races, names, class_spells)
     character['boon'] = boons[randrange(0,(len(boons) - 1))]
     character['bane'] = banes[randrange(0,(len(banes) - 1))]
     character['level'] = randrange(0,20)
+    character['personality'] = personalities[randrange(0,(len(personalities) - 1))]
     
     # age
     rand_num = randrange(0,5)

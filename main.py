@@ -13,9 +13,10 @@ names = load_objects("names")
 boons = load_objects("boons")
 banes = load_objects("banes")
 races = load_objects("races")
+personalities = load_objects("personalities")
 
 # generate
-character = generate(spells, classes, origins, boons, banes, races, names, class_spells)
+character = generate(spells, classes, origins, boons, banes, races, names, class_spells, personalities)
 
 # print
 print_char(character)
