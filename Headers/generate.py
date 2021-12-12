@@ -29,6 +29,7 @@ def generate(spells, classes, origins, boons, banes, races, names, class_spells)
     character['race'] = races[randrange(0,(len(races) - 1))]
     character['boon'] = boons[randrange(0,(len(boons) - 1))]
     character['bane'] = banes[randrange(0,(len(banes) - 1))]
+    character['level'] = randrange(0,20)
     
     # age
     rand_num = randrange(0,5)

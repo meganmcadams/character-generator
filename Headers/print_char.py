@@ -8,6 +8,8 @@ def print_char(character):
     print("Class:",character['class'])
     print("Boon:",character['boon'])
     print("Bane:",character['bane'])
+    print("Stats:",character['stats'])
+    print("Level:",character['level'])
     
     if len(character['spells']) is 0:
         print("Spells: None")
